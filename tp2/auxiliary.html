@@ -1,0 +1,83 @@
+<div>
+	Verificamos algunas columnas aleatorias, con la información sobre los rangos y valores posibles <br> indicados en el archivo <b>data/sponge/sponge.info</b> .
+</div>
+
+
+Según el sitio sobre <a href="https://archive.ics.uci.edu/ml/datasets/Sponge">esponjas</a> , los atributos del
+dataset tienen las siguientes caracteristicas:
+
+<table >
+	<tr>
+		<td  ><p class="normal"><b>Características del conjunto de datos:</b></p></td>
+		<td><p class="normal">Mutivariante</p></td>
+		<td  ><p class="normal"><b>Número de Instancias:</b></p></td>
+		<td><p class="normal">76</p></td>
+		<td  ><p class="normal"><b>Zona:</b></p></td>
+		<td><p class="normal">Vida</p></td>
+	</tr>
+	<tr>
+		<td  ><p class="normal"><b>Caraterísticas de los Atributos:</b></p></td>
+		<td><p class="normal">Categórico o entero</p></td>
+		<td  ><p class="normal"><b>Número de Atributos:</b></p></td>
+		<td><p class="normal">45</p></td>
+		<td  ><p class="normal"><b>¿Tiene valores faltantes?</b></p></td>
+		<td><p class="normal">Si</p></td>
+	</tr>
+
+</table>
+
+
+<b>De los 45 atributos:</b> <br>
+- 27 atributos son nominales y no numéricos..
+- 15 atributos son booleanos y toman los valores (NO SI).
+- 3 atributos son numéricos y toman números naturales. 
+
+
+
+<b>Sabemos que al dataset le faltan valores:</b>
+<div style="text-align: left;">
+	<table >
+		<tr>
+			<td  ><p class="normal"><b>¿Tiene valores faltantes?</b></p></td>
+			<td><p class="normal">Si</p></td>
+		</tr>
+	</table>
+</div>
+
+
+Observando los datos, vemos que los valores faltantes 
+son representados por: <b><i>?</i></b>
+
+---
+**ACLARACIÓN**
+
+Se debería utilizar algún método para identificar automáticamente cómo se representan los 
+valores faltantes.
+
+---
+
+<div>
+	El único que atributo que presenta valores faltantes
+	es <b>M.COLOR</b>. Vemos en <b>data/sponge/sponge.info</b>
+	que los valores posibles para este atributo son:
+</div>
+
+- AMARILLO_PALIDO 
+- AZUL_O_ANARANJADO_INTENSOS 
+- OTROS
+
+<div>
+	Si bien estos valores son categóricos, no indican el color específico, sino matices de colores. Por esto, el atributo admite la categoría <b>OTROS</b>.
+</div>
+
+
+
+
+
+
+
+
+
+
+["A.CAPAS_DEL_CORTEX","A.CAPA_INTERNA_DEL_CORTEX ","A.CORTEX",
+"A.CORTEX_FIBROSO","A.CORTEX_SOLO_DE_ESPICULAS_TANGENCIALES","A.CUERPOS_EXTRANOS_EN_EL_CORTEX","A.GROSOR_DEL_CORTEX","A.HACES_DE_ESPICULAS_PRINCIPALES_EN_POMPON_EN_EL_CORTEX","A.TILOSTILOS_ADICIONALES_COANOSOMA","B.NUMERO_DE_TIPOS_DE_MEGASCLERAS","C.TIPO_ESPICULA_PRINCIPAL_DIACTINA_TUBERCULADA ","C.TIPO_ESPICULA_PRINCIPAL_ESTILO","C.TIPO_ESPICULA_PRINCIPAL_ESTILOS_2_TAMANOS","C.TIPO_ESPICULA_PRINCIPAL_ESTILO_TILOSTILO","C.TIPO_ESPICULA_PRINCIPAL_ESTRONGILOXA","C.TIPO_ESPICULA_PRINCIPAL_OXAS","C.TIPO_ESPICULA_PRINCIPAL_TILOSTILO","D.ESPICULA_PRINCIPAL_ESTILO","D.ESPICULA_PRINCIPAL_TILOSTILO","D.FORMA_BASE_TILOSTILO_PRINCIPAL","E.DISPOSICION_MEGASCLERAS_ECTOSOMICAS_EN_EL_ECTOSOMA","E.FORMA_BASE_TILOSTILO_ECTOSOMICO","E.FORMA_MEGASCLERA_ECTOSOMICA","E.TIPO_MEGASCLERA_ECTOSOMICA","F.TIPO_DE_EXOSTILO","G.FORMA_MEGASCLERA_INTERMEDIARIA ","G.TIPO_MEGASCLERA_INTERMEDIARIA","H.LONGITUD_MEGASCLERAS","I.MICROSCLERAS","I.TIPO_MICROSCLERA","J.ASTER","J.DIAMETRO_ESFERASTER","J.TIPO_DE_ASTER","J.TIPO_DE_DIPLASTER","J.TIPO_DE_ESFERASTER ","K.FORMA_FINAL","L.NUMERO_DE_PAPILAS","L.PAPILAS","M.COLOR","N.SUPERFICIE","O.DISPOSICION_ESPICULAR_ESQUELETO","P.ALOJA_CANGREJO_ERMITANO","P.PERFORANTE","P.PSEUDORAICES","P.SUSTRATO"]
