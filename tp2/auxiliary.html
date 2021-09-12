@@ -82,3 +82,107 @@ valores faltantes.
 
 ["A.CAPAS_DEL_CORTEX","A.CAPA_INTERNA_DEL_CORTEX ","A.CORTEX",
 "A.CORTEX_FIBROSO","A.CORTEX_SOLO_DE_ESPICULAS_TANGENCIALES","A.CUERPOS_EXTRANOS_EN_EL_CORTEX","A.GROSOR_DEL_CORTEX","A.HACES_DE_ESPICULAS_PRINCIPALES_EN_POMPON_EN_EL_CORTEX","A.TILOSTILOS_ADICIONALES_COANOSOMA","B.NUMERO_DE_TIPOS_DE_MEGASCLERAS","C.TIPO_ESPICULA_PRINCIPAL_DIACTINA_TUBERCULADA ","C.TIPO_ESPICULA_PRINCIPAL_ESTILO","C.TIPO_ESPICULA_PRINCIPAL_ESTILOS_2_TAMANOS","C.TIPO_ESPICULA_PRINCIPAL_ESTILO_TILOSTILO","C.TIPO_ESPICULA_PRINCIPAL_ESTRONGILOXA","C.TIPO_ESPICULA_PRINCIPAL_OXAS","C.TIPO_ESPICULA_PRINCIPAL_TILOSTILO","D.ESPICULA_PRINCIPAL_ESTILO","D.ESPICULA_PRINCIPAL_TILOSTILO","D.FORMA_BASE_TILOSTILO_PRINCIPAL","E.DISPOSICION_MEGASCLERAS_ECTOSOMICAS_EN_EL_ECTOSOMA","E.FORMA_BASE_TILOSTILO_ECTOSOMICO","E.FORMA_MEGASCLERA_ECTOSOMICA","E.TIPO_MEGASCLERA_ECTOSOMICA","F.TIPO_DE_EXOSTILO","G.FORMA_MEGASCLERA_INTERMEDIARIA ","G.TIPO_MEGASCLERA_INTERMEDIARIA","H.LONGITUD_MEGASCLERAS","I.MICROSCLERAS","I.TIPO_MICROSCLERA","J.ASTER","J.DIAMETRO_ESFERASTER","J.TIPO_DE_ASTER","J.TIPO_DE_DIPLASTER","J.TIPO_DE_ESFERASTER ","K.FORMA_FINAL","L.NUMERO_DE_PAPILAS","L.PAPILAS","M.COLOR","N.SUPERFICIE","O.DISPOSICION_ESPICULAR_ESQUELETO","P.ALOJA_CANGREJO_ERMITANO","P.PERFORANTE","P.PSEUDORAICES","P.SUSTRATO"]
+
+
+
+
+
+Según el sitio sobre <a href="https://archive.ics.uci.edu/ml/datasets/Echocardiogram">Ecocardiograma</a> , los atributos del
+dataset tienen las siguientes caracteristicas:
+
+<table >
+	<tr>
+		<td  ><p class="normal"><b>Características del conjunto de datos:</b></p></td>
+		<td><p class="normal">Mutivariante</p></td>
+		<td  ><p class="normal"><b>Número de Instancias:</b></p></td>
+		<td><p class="normal">132</p></td>
+		<td  ><p class="normal"><b>Zona:</b></p></td>
+		<td><p class="normal">Vida</p></td>
+	</tr>
+	<tr>
+		<td  ><p class="normal"><b>Caraterísticas de los Atributos:</b></p></td>
+		<td><p class="normal">Categórico, entero o real.</p></td>
+		<td  ><p class="normal"><b>Número de Atributos:</b></p></td>
+		<td><p class="normal">12</p></td>
+		<td  ><p class="normal"><b>¿Tiene valores faltantes?</b></p></td>
+		<td><p class="normal">Si</p></td>
+	</tr>
+
+</table>
+
+<div>
+	En este caso, once de los doce atributos presentan datos faltantes en diferentes proporciones. Primero analizaremos los datos faltantes:
+</div>
+
+<div>
+	El gráfico de mapa de calor nos permite conocer la distribución de los datos faltantes.
+</div>
+
+<div>
+	Con estos gráficos,vamos a ir analizando uno a uno los atributos, teniendo como referencia la <a href="data/echocardiogram/echocardiogram.names">Información</a> que tenemos del dataset, y efectuando cambios en un copia llamada: <b>d_echo_copy</b>
+</div>
+
+0             still-alive    0.757576         1
+1     age-at-heart-attack    4.545455         6
+3   fractional-shortening    6.060606         8
+4                    epss   11.363636        15
+5                    lvdd    8.333333        11
+6       wall-motion-score    3.030303         4
+7       wall-motion-index    1.515152         2
+8                    mult    2.272727         3
+9                    name    0.757576         1
+10                  group   16.666667        22
+11             alive-at-1   43.181818        57
+
+### Atributo: group
+<div>
+	Primero analizaremos el atributo <b>group</b>.
+
+	<ul>
+		<li>El 16.666667% de los registros de este atributo, son datos faltantes.</li>
+		<li>Faltan 22 de los 132 datos.</li>
+	</ul>
+
+
+	Según el archivo de <a href="data/echocardiogram/echocardiogram.names">Información</a>: <br>
+	<i>group: sin sentido, ignóralo</i>
+	<br>
+	Directamente, eliminaremos el atributo.
+</div>
+
+
+### Atributo: still-alive             
+<div>
+
+	<ul>
+		<li>El 0.757576% de los registros de este atributo, son datos faltantes.</li>
+		<li>Falta 1 de los 132 datos.</li>
+	</ul>
+      
+
+	Según el archivo de <a href="data/echocardiogram/echocardiogram.names">Información</a>: <br>
+	<i>group: sin sentido, ignóralo</i>
+	<br>
+	Directamente, eliminaremos el atributo.
+</div>
+
+
+
+
+### Atributo
+<div>
+	Primero analizaremos el atributo <b>group</b>.
+
+	<ul>
+		<li>El 16.666667% de los registros de este atributo, son datos faltantes.</li>
+		<li>Faltan 22 de los 132 datos.</li>
+	</ul>
+
+
+	Según el archivo de <a href="data/echocardiogram/echocardiogram.names">Información</a>: <br>
+	<i>group: sin sentido, ignóralo</i>
+	<br>
+	Directamente, eliminaremos el atributo.
+</div>
+
+["still-alive","age-at-heart-attack","pericardial-effusion","fractional-shortening","epss","lvdd","wall-motion-score","wall-motion-index","mult","name","group","alive-at-1"]
