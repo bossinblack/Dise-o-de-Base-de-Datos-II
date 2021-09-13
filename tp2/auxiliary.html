@@ -122,17 +122,20 @@ dataset tienen las siguientes caracteristicas:
 	Con estos gráficos,vamos a ir analizando uno a uno los atributos, teniendo como referencia la <a href="data/echocardiogram/echocardiogram.names">Información</a> que tenemos del dataset, y efectuando cambios en un copia llamada: <b>d_echo_copy</b>
 </div>
 
-0             still-alive    0.757576         1
-1     age-at-heart-attack    4.545455         6
-3   fractional-shortening    6.060606         8
-4                    epss   11.363636        15
-5                    lvdd    8.333333        11
-6       wall-motion-score    3.030303         4
-7       wall-motion-index    1.515152         2
-8                    mult    2.272727         3
-9                    name    0.757576         1
-10                  group   16.666667        22
-11             alive-at-1   43.181818        57
+                  columna  porcentaje  cantidad
+0                survival    0.757576         1
+1             still-alive    0.757576         1
+2     age-at-heart-attack    4.545455         6
+4   fractional-shortening    6.060606         8
+5                    epss   11.363636        15
+6                    lvdd    8.333333        11
+7       wall-motion-score    3.030303         4
+8       wall-motion-index    1.515152         2
+9                    mult    2.272727         3
+10                   name    0.757576         1
+11                  group   16.666667        22
+12             alive-at-1   43.181818        57
+
 
 ### Atributo: group
 <div>
@@ -160,13 +163,88 @@ dataset tienen las siguientes caracteristicas:
 	</ul>
       
 
-	Según el archivo de <a href="data/echocardiogram/echocardiogram.names">Información</a>: <br>
-	<i>group: sin sentido, ignóralo</i>
-	<br>
-	Directamente, eliminaremos el atributo.
+	Según el archivo de <a href="data/echocardiogram/echocardiogram.names">Información</a> este atributo indica con una variable binaria, si el paciente ha fallecido al final del período (0) o todavía vive (1)l Como un solo registro no tiene este atributo, decidimos borrar el registro completo. 
+</div>
+
+### Atributo: survival            
+<div>
+	<ul>
+		<li>El 0.757576% de los registros de este atributo, son datos faltantes.</li>
+		<li>Falta 1 de los 132 datos.</li>
+	</ul>
+	Según el archivo de <a href="data/echocardiogram/echocardiogram.names">Información</a> este atributo indica la cantidad de meses que ha sobrevivido el paciente. Al igual que el atributo <b>still-alive</b>, un solo registro no tiene <b>survival</b> y decidimos borrar el registro completo. 
+</div>
+
+### Atributo: age-at-heart-attack       
+<div>
+	<ul>
+		<li>El 4.545455% de los registros de este atributo, son datos faltantes.</li>
+		<li>Falta 6 de los 132 datos.</li>
+	</ul>
+	Según el archivo de <a href="data/echocardiogram/echocardiogram.names">Información</a> <b>age-at-heart-attack</b> indica cuantos años tenía el paciente cuando sufrió el infarto. Solo seis registros no tienen este valor, asi que decidimos rellenar estos valores faltantes con la moda de la edad de todos los pacientes. 
+</div>
+
+### Atributo: fractional-shortening                  
+<div>
+	<ul>
+		<li>El 6.060606% de los registros de este atributo, son datos faltantes.</li>
+		<li>Falta 8 de los 132 datos.</li>
+	</ul>
+	Según el archivo de <a href="data/echocardiogram/echocardiogram.names">Información</a> <b>fractional-shortening</b> señala una medida de la contractilidad alrededor del corazón. Los números más bajos son cada vez más anormales. Ocho registros no tienen este valor. 
+</div>
+
+<div>
+	Vamos a ver si este atributo tiene una fuerte correlación con algún otro. Si esto se cumple, reemplazaremos esos datos faltantes teniendo en cuenta esa correlación.
+</div>
+
+<div>
+	No existe tal correlación. Decidimos borrar los registros a los que le falta este atributo.
 </div>
 
 
+
+
+
+
+### Atributo: epss             
+<div>
+	<ul>
+		<li>El 11.363636% de los registros de este atributo, son datos faltantes.</li>
+		<li>Falta 15 de los 132 datos.</li>
+	</ul>
+	<b>epss</b> es otra medida de contractilidad. Veremos si correlaciona con <b>fractional-shortening</b>.
+</div>
+<div>
+	No vemos una correlación fuerte con <b>fractional-shortening</b>, ni con ningún otro atributo.
+</div>
+<div>
+	Según la <a href="data/echocardiogram/echocardiogram.names">Información</a>, los valores más grandes son cada vez más anormales, por lo que reemplazaremos los valores faltantes por el promedio de esta medida.
+</div>
+
+
+### Atributo: lvdd                         
+<div>
+	<ul>
+		<li>El 8.333333% de los registros de este atributo, son datos faltantes.</li>
+		<li>Falta 11 de los 132 datos.</li>
+	</ul>
+	<b>lvdd</b> es una medida del tamaño del corazón.
+	Los corazones grandes tienden a ser corazones enfermos. Volvemos a reeplazar los valores faltantes por el promedio, ya que si hay más pacientes con corazones grandes (es decir con corazones enfermos), el promedio tambíen sera alto.
+</div>
+
+### Atributos: wall-motion-score, wall-motion-index, mult                         
+<div>
+	Resulta que a los registro que les falta el atributo <b>wall-motion-score</b>, también les falta los valores de <b>wall-motion-index</b> y <b>mult</b>. Tan solo son cuatro registros. Decidimos elimiarnos.
+</div>
+
+### Atributo: alive-at-1                                 
+<div>
+	<ul>
+		<li>El 43.181818% de los registros de este atributo, son datos faltantes.</li>
+		<li>Falta 57 de los 132 datos.</li>
+	</ul>
+	Este atributo es el más datos faltates presenta. Preferimos eliminar la columna.
+</div>
 
 
 ### Atributo
@@ -185,4 +263,4 @@ dataset tienen las siguientes caracteristicas:
 	Directamente, eliminaremos el atributo.
 </div>
 
-["still-alive","age-at-heart-attack","pericardial-effusion","fractional-shortening","epss","lvdd","wall-motion-score","wall-motion-index","mult","name","group","alive-at-1"]
+["survival","still-alive","age-at-heart-attack","pericardial-effusion","fractional-shortening","epss","lvdd","wall-motion-score","wall-motion-index","mult","name","group","alive-at-1"]
