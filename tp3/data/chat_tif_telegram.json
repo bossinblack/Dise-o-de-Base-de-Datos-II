@@ -1,0 +1,6377 @@
+{
+ "name": "Trabajo Integrador Final II",
+ "type": "private_supergroup",
+ "id": 1245464638,
+ "messages": [
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2021-03-19T09:42:03",
+   "actor": "Trabajo Integrador Final II",
+   "actor_id": "channel1245464638",
+   "action": "migrate_from_group",
+   "title": "Trabajo Integrador Final I",
+   "text": ""
+  },
+  {
+   "id": 2,
+   "type": "service",
+   "date": "2021-03-19T12:08:21",
+   "actor": "Giancarlo Galvarini",
+   "actor_id": "user1009916191",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 3,
+   "type": "service",
+   "date": "2021-03-19T13:33:54",
+   "actor": "María Marta Arrieta",
+   "actor_id": "user1691333349",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 4,
+   "type": "message",
+   "date": "2021-03-19T13:36:55",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Un verdadero placer haber compartido con Uds. esta mañana! Hemos compartido: sueños que convertiremos en proyectos y esos proyectos en realidad! Adelante que en 2023 serán YA ingenieras/os👍👍"
+  },
+  {
+   "id": 5,
+   "type": "message",
+   "date": "2021-03-19T13:37:34",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "text": "Igualmente profe! Un gusto"
+  },
+  {
+   "id": 6,
+   "type": "message",
+   "date": "2021-03-19T13:37:53",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Gracias María Marta!!! Un placer por fin tenerte de profe !"
+  },
+  {
+   "id": 7,
+   "type": "message",
+   "date": "2021-03-19T13:39:41",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Gran desafío y junto a Uds , con Uds  y por Uds. LO LOGRAREMOS."
+  },
+  {
+   "id": 8,
+   "type": "message",
+   "date": "2021-03-19T13:53:27",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "Gravias profe por la clase de hoy. Extrañaba la presencialidad"
+  },
+  {
+   "id": 9,
+   "type": "service",
+   "date": "2021-03-19T14:23:09",
+   "actor": "Esteban",
+   "actor_id": "user859940597",
+   "action": "invite_members",
+   "members": [
+    "Ramiro"
+   ],
+   "text": ""
+  },
+  {
+   "id": 10,
+   "type": "service",
+   "date": "2021-03-19T14:40:48",
+   "actor": "Ramiro",
+   "actor_id": "user978056130",
+   "action": "invite_members",
+   "members": [
+    "Arian M"
+   ],
+   "text": ""
+  },
+  {
+   "id": 11,
+   "type": "service",
+   "date": "2021-03-19T14:41:21",
+   "actor": "Ramiro",
+   "actor_id": "user978056130",
+   "action": "invite_members",
+   "members": [
+    "seba F"
+   ],
+   "text": ""
+  },
+  {
+   "id": 12,
+   "type": "service",
+   "date": "2021-03-19T14:41:21",
+   "actor": "Ramiro",
+   "actor_id": "user978056130",
+   "action": "invite_members",
+   "members": [
+    "Matias Ahumada"
+   ],
+   "text": ""
+  },
+  {
+   "id": 13,
+   "type": "service",
+   "date": "2021-03-19T16:59:36",
+   "actor": "Esteban",
+   "actor_id": "user859940597",
+   "action": "invite_members",
+   "members": [
+    "Tomas Gañan"
+   ],
+   "text": ""
+  },
+  {
+   "id": 14,
+   "type": "message",
+   "date": "2021-03-19T17:00:39",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "reply_to_message_id": 4,
+   "text": "Gracias, profe. Buen viaje!"
+  },
+  {
+   "id": 15,
+   "type": "message",
+   "date": "2021-03-21T11:07:07",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buen día HERMOSO EQUIPO TIF!!! Además de  desearles un excelente y hermoso otoño !!  Comparto con uds. un articulo que acabo de leer que les puede interesar 👇. Feliz domingo!.Seguimos en contacto."
+  },
+  {
+   "id": 16,
+   "type": "message",
+   "date": "2021-03-21T11:07:55",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.google.com/url?rct=j&sa=t&url=https://www.losandes.com.ar/economia/videojuegos-la-generacion-de-empresarios-que-se-consolida-en-mendoza/&ct=ga&cd=CAEYACoTOTI4NzQ3NDM1NjE1MDU5NjIxODIdMjQwYmNkOTM5ZTI3YzEzYzpjb20uYXI6ZXM6QVI&usg=AFQjCNEoIKU4p27BB1ME1TDFB_N21Uy3pw"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "type": "message",
+   "date": "2021-03-21T11:11:29",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Gracias María Marta!! Igualmente!"
+  },
+  {
+   "id": 18,
+   "type": "message",
+   "date": "2021-03-21T11:13:08",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Gracias a ti Daiana!"
+  },
+  {
+   "id": 19,
+   "type": "message",
+   "date": "2021-03-21T11:22:53",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Muy interesante, muchas gracias!!"
+  },
+  {
+   "id": 20,
+   "type": "message",
+   "date": "2021-03-21T11:30:55",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "A medida que vayamos explorando y descubriendo info relevante: les ruego compartirla. Gracias."
+  },
+  {
+   "id": 21,
+   "type": "message",
+   "date": "2021-03-21T11:32:16",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "El saber y el conocimiento es como el agua...Si se estanca, SE PUDRE🤓🤓🤓"
+  },
+  {
+   "id": 22,
+   "type": "service",
+   "date": "2021-03-22T09:24:39",
+   "actor": "Facu Luna",
+   "actor_id": "user672006577",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 23,
+   "type": "service",
+   "date": "2021-03-22T09:25:10",
+   "actor": "Nicolás Olivares",
+   "actor_id": "user774340913",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 24,
+   "type": "service",
+   "date": "2021-03-22T09:55:23",
+   "actor": "Lautaro G",
+   "actor_id": "user858971037",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 25,
+   "type": "service",
+   "date": "2021-03-22T09:58:12",
+   "actor": "Esteban",
+   "actor_id": "user859940597",
+   "action": "invite_members",
+   "members": [
+    "Ornella Grasso"
+   ],
+   "text": ""
+  },
+  {
+   "id": 26,
+   "type": "service",
+   "date": "2021-03-22T10:09:25",
+   "actor": "Matias Navarro",
+   "actor_id": "user846689643",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 27,
+   "type": "service",
+   "date": "2021-03-22T12:17:53",
+   "actor": "Pablo Fracaro",
+   "actor_id": "user830260616",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 28,
+   "type": "service",
+   "date": "2021-03-24T13:43:01",
+   "actor": "Ornella Grasso",
+   "actor_id": "user741547599",
+   "action": "invite_members",
+   "members": [
+    "Julian Campana"
+   ],
+   "text": ""
+  },
+  {
+   "id": 29,
+   "type": "message",
+   "date": "2021-03-26T07:41:21",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "Estimadas/os,\nNos reunimos en un rato el link meet para unirse\nID de la reunión\n",
+    {
+     "type": "link",
+     "text": "meet.google.com/shg-vmvp-pyi"
+    },
+    "\nCLASE RECUPERATORIA de la clase 1 presencial \nMENSAJE ESPECIAL PARA YAGO, JULIÁN y RAMIRO\nLOS ESPERO HORA : de 8:00 a 9:00\nLink: el mismo de la clase 2 es decir \nID de la reunión ",
+    {
+     "type": "link",
+     "text": "meet.google.com/shg-vmvp-pyi"
+    },
+    "\nDesde ya muchas gracias y A SEGUIR ADELANTE !!!!\nSaludos \nMaria Marta"
+   ]
+  },
+  {
+   "id": 30,
+   "type": "service",
+   "date": "2021-03-26T09:04:07",
+   "actor": "Julian Campana",
+   "actor_id": "user925454557",
+   "action": "invite_members",
+   "members": [
+    "Ramiro Giand."
+   ],
+   "text": ""
+  },
+  {
+   "id": 31,
+   "type": "service",
+   "date": "2021-03-26T09:04:13",
+   "actor": "Yago",
+   "actor_id": "user810386556",
+   "action": "join_group_by_link",
+   "inviter": "Group",
+   "text": ""
+  },
+  {
+   "id": 32,
+   "type": "service",
+   "date": "2021-03-26T11:51:23",
+   "actor": "Ornella Grasso",
+   "actor_id": "user741547599",
+   "action": "invite_members",
+   "members": [
+    "Matias"
+   ],
+   "text": ""
+  },
+  {
+   "id": 33,
+   "type": "message",
+   "date": "2021-03-26T11:51:51",
+   "from": "Matias",
+   "from_id": "user867670922",
+   "text": "muchas gracias 😊"
+  },
+  {
+   "id": 34,
+   "type": "service",
+   "date": "2021-03-26T12:05:06",
+   "actor": "Ornella Grasso",
+   "actor_id": "user741547599",
+   "action": "invite_members",
+   "members": [
+    "Marcos Adrián Rugoso"
+   ],
+   "text": ""
+  },
+  {
+   "id": 35,
+   "type": "message",
+   "date": "2021-03-26T12:09:21",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Avísenme después si prefieren que mande los links por acá o que los suba al foro de la cátedra"
+  },
+  {
+   "id": 36,
+   "type": "message",
+   "date": "2021-03-26T12:10:01",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "text": "Pásalos por acá"
+  },
+  {
+   "id": 37,
+   "type": "message",
+   "date": "2021-03-26T12:15:49",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "ok"
+  },
+  {
+   "id": 38,
+   "type": "message",
+   "date": "2021-03-26T12:17:16",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://youtube.com/c/DateunVlog"
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "type": "message",
+   "date": "2021-03-26T12:17:53",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://youtube.com/user/QuantumFracture"
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "type": "message",
+   "date": "2021-03-26T12:18:34",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://youtube.com/c/ROBOTITUS"
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "type": "message",
+   "date": "2021-03-26T12:19:55",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Este es el video de El Robot de Platon que habla sobre dónde buscar información y en qué páginas confiar:"
+  },
+  {
+   "id": 42,
+   "type": "message",
+   "date": "2021-03-26T12:20:00",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://youtu.be/aJK46L4-Gm8"
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "type": "message",
+   "date": "2021-03-26T12:24:19",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Acá está la imagen con el cuadro que clasifica revistas y otras fuentes:"
+  },
+  {
+   "id": 44,
+   "type": "message",
+   "date": "2021-03-26T12:24:25",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 45,
+   "type": "message",
+   "date": "2021-03-26T12:25:38",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Y finalmente, una página que es un esfuerzo por parte de varios científicos y comunicadores latinoamericanos:"
+  },
+  {
+   "id": 46,
+   "type": "message",
+   "date": "2021-03-26T12:25:46",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://redlcc.org/"
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "type": "message",
+   "date": "2021-03-26T12:25:59",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Buenisimo"
+  },
+  {
+   "id": 48,
+   "type": "message",
+   "date": "2021-03-26T12:26:10",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Gracias Augusto 👍👍"
+  },
+  {
+   "id": 49,
+   "type": "message",
+   "date": "2021-03-26T12:27:02",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": [
+    "Ah, y la página de robotitus:\n\n",
+    {
+     "type": "link",
+     "text": "https://robotitus.com/"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 50,
+   "type": "message",
+   "date": "2021-03-26T12:27:28",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "reply_to_message_id": 48,
+   "text": "De nada!"
+  },
+  {
+   "id": 51,
+   "type": "message",
+   "date": "2021-03-26T12:27:47",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Espero les sea útil a todos"
+  },
+  {
+   "id": 52,
+   "type": "message",
+   "date": "2021-03-26T12:28:00",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "text": "Gracias!!"
+  },
+  {
+   "id": 53,
+   "type": "message",
+   "date": "2021-03-26T12:30:56",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Genial Augusto buenísimo!"
+  },
+  {
+   "id": 54,
+   "type": "message",
+   "date": "2021-03-26T12:31:05",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Gracias por tu aporte"
+  },
+  {
+   "id": 55,
+   "type": "message",
+   "date": "2021-03-26T12:32:29",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "👍🏻👍🏻"
+  },
+  {
+   "id": 56,
+   "type": "message",
+   "date": "2021-03-26T13:03:16",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Valiosa tu colaboración Augusto!!!! Que tus compañeros lo.aprovechen 👍👍👍"
+  },
+  {
+   "id": 57,
+   "type": "message",
+   "date": "2021-03-26T13:54:06",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "text": "Mil gracias, Augusto!"
+  },
+  {
+   "id": 58,
+   "type": "message",
+   "date": "2021-03-27T18:08:45",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": [
+    "Free Open-Access Quantum Computer Now Operational\n",
+    {
+     "type": "link",
+     "text": "https://scitechdaily.com/free-open-access-quantum-computer-now-operational/"
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "type": "message",
+   "date": "2021-03-27T19:02:24",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Gracias Julián!! Lo aprovecharemos."
+  },
+  {
+   "id": 60,
+   "type": "message",
+   "date": "2021-03-27T19:52:22",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "👍🏻👍🏻"
+  },
+  {
+   "id": 61,
+   "type": "message",
+   "date": "2021-03-27T19:52:55",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "reply_to_message_id": 58,
+   "text": "Gracias Juli!"
+  },
+  {
+   "id": 62,
+   "type": "message",
+   "date": "2021-03-29T15:49:55",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Estimadas/os, muchas gracias por vuestra participación. Los 4 trabajos entregados ya han sido evaluados. Les ruego abran vuestros PDF pues todos tienen anotaciones. Un gusto ir descubriendo vuestros estilos de trabajo, de escritura, de organizacion discursiva. BRAVO!! Y gracias por permitir leerlos."
+  },
+  {
+   "id": 63,
+   "type": "message",
+   "date": "2021-03-29T16:09:00",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Cuantas palabras debía tener el texto?"
+  },
+  {
+   "id": 64,
+   "type": "message",
+   "date": "2021-03-29T16:09:09",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "text": "600 - 700"
+  },
+  {
+   "id": 65,
+   "type": "message",
+   "date": "2021-03-29T16:09:27",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "no eran entre 400 y 500?"
+  },
+  {
+   "id": 66,
+   "type": "message",
+   "date": "2021-03-29T16:09:41",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "reply_to_message_id": 65,
+   "text": "Eso"
+  },
+  {
+   "id": 67,
+   "type": "message",
+   "date": "2021-03-29T16:10:30",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "si de todas maneras es aproximado supongo, no creo que sea estrictamente esa cantidad, la profe menciono entre 400 -500 en la clase y la consigna dice entre 600 - 700, es practicamente lo mismo"
+  },
+  {
+   "id": 68,
+   "type": "message",
+   "date": "2021-03-29T16:11:11",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1120,
+   "height": 707,
+   "text": ""
+  },
+  {
+   "id": 69,
+   "type": "message",
+   "date": "2021-03-29T16:11:13",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Los he visto con TANTA CAPACIDAD Y DESEOS DE EXPRESARSE que he sido generosa y les he regalado un par de renglones\n IMPRESIÓNENME con vuestro escrito."
+  },
+  {
+   "id": 70,
+   "type": "message",
+   "date": "2021-03-29T16:12:45",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "No se preocupen tanto por la cantidad sino por la...... 😉😉😉😉😉😉😉👍👍👍👍👍👍"
+  },
+  {
+   "id": 71,
+   "type": "message",
+   "date": "2021-03-29T16:13:11",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "guiño guiño*****"
+  },
+  {
+   "id": 72,
+   "type": "message",
+   "date": "2021-03-29T16:13:14",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Ok 👌🏻👌🏻"
+  },
+  {
+   "id": 73,
+   "type": "message",
+   "date": "2021-03-30T12:56:01",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 480,
+   "height": 360,
+   "text": "profe, no llego a las 600 palabras jajajaja"
+  },
+  {
+   "id": 74,
+   "type": "message",
+   "date": "2021-03-30T12:58:57",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": "Jajajajaja"
+  },
+  {
+   "id": 75,
+   "type": "message",
+   "date": "2021-03-30T13:08:26",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "Jajajajajajaj"
+  },
+  {
+   "id": 76,
+   "type": "message",
+   "date": "2021-03-30T13:28:52",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "reply_to_message_id": 73,
+   "text": "Ya llegué"
+  },
+  {
+   "id": 77,
+   "type": "message",
+   "date": "2021-03-30T13:28:53",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "🚶",
+   "width": 438,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 78,
+   "type": "message",
+   "date": "2021-03-30T13:48:19",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Me han hecho reír mucho😂😂😂😂😂"
+  },
+  {
+   "id": 79,
+   "type": "message",
+   "date": "2021-03-30T13:48:42",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 2,
+   "width": 320,
+   "height": 204,
+   "text": ""
+  },
+  {
+   "id": 80,
+   "type": "message",
+   "date": "2021-03-30T13:49:05",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Vamos ESTEBAN!!!"
+  },
+  {
+   "id": 81,
+   "type": "message",
+   "date": "2021-03-30T14:00:11",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "reply_to_message_id": 79,
+   "text": "Jajaja"
+  },
+  {
+   "id": 82,
+   "type": "message",
+   "date": "2021-03-30T14:00:42",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "Me río porque estaría en la misma que Augusto"
+  },
+  {
+   "id": 83,
+   "type": "message",
+   "date": "2021-03-30T14:18:10",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "No me tiran la toalla✍✍✍✍✍✍🙏🙏🙏🙏🙏"
+  },
+  {
+   "id": 84,
+   "type": "message",
+   "date": "2021-03-30T14:18:55",
+   "from": "Matias",
+   "from_id": "user867670922",
+   "text": "jajajaja"
+  },
+  {
+   "id": 85,
+   "type": "message",
+   "date": "2021-03-30T14:19:28",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "avanti morocha"
+  },
+  {
+   "id": 86,
+   "type": "message",
+   "date": "2021-03-30T14:19:30",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "jaja"
+  },
+  {
+   "id": 87,
+   "type": "message",
+   "date": "2021-03-30T14:19:34",
+   "from": "Matias",
+   "from_id": "user867670922",
+   "text": "yo lo subí pero tampoco llegué..."
+  },
+  {
+   "id": 88,
+   "type": "message",
+   "date": "2021-03-30T14:19:38",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "como la canción"
+  },
+  {
+   "id": 89,
+   "type": "message",
+   "date": "2021-03-30T14:19:52",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "text": "Que poco expresivos!!"
+  },
+  {
+   "id": 90,
+   "type": "message",
+   "date": "2021-03-30T14:20:11",
+   "from": "Matias",
+   "from_id": "user867670922",
+   "reply_to_message_id": 89,
+   "text": "era eso o empezar a mentir"
+  },
+  {
+   "id": 91,
+   "type": "message",
+   "date": "2021-03-30T14:20:17",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "yo juro que estoy adornándolo sólo para llegar a las palabras necesarias"
+  },
+  {
+   "id": 92,
+   "type": "message",
+   "date": "2021-03-30T14:20:30",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "text": "Adornar la verdad no es mentir"
+  },
+  {
+   "id": 93,
+   "type": "message",
+   "date": "2021-03-30T14:20:39",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "la cantidad de palabras es un numero, lo que importa es el mensaje"
+  },
+  {
+   "id": 94,
+   "type": "message",
+   "date": "2021-03-30T14:20:55",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "reply_to_message_id": 93,
+   "text": "soy de la misma idaea"
+  },
+  {
+   "id": 95,
+   "type": "message",
+   "date": "2021-03-30T14:29:40",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Les propongo ....😉😉😉sumar todo lo.que están telegrameando👍👍👍"
+  },
+  {
+   "id": 96,
+   "type": "message",
+   "date": "2021-03-31T10:53:45",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Yo ayer subí el trabajo 10 segundos antes de la hora límite, es dificil escribir 700 líneas con coherencia jaja"
+  },
+  {
+   "id": 97,
+   "type": "message",
+   "date": "2021-03-31T10:58:48",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Buenos días TIF1! Si yo también anoche lo subí unos minutos antes, no fue fácil, no quede 100% satisfecha pero creo que también es un camino que tenemos que transitar y estamos justamente para aprender y pulir nuestra capacidad de escritura 👏 espero ansiosa la devolución😅"
+  },
+  {
+   "id": 98,
+   "type": "message",
+   "date": "2021-03-31T10:58:51",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Saludos!"
+  },
+  {
+   "id": 99,
+   "type": "message",
+   "date": "2021-03-31T12:44:22",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 120,
+   "text": ""
+  },
+  {
+   "id": 100,
+   "type": "message",
+   "date": "2021-03-31T12:50:15",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "Gracias María Marta!!!!!"
+  },
+  {
+   "id": 101,
+   "type": "message",
+   "date": "2021-03-31T12:52:29",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": "Gracias profe! 😁"
+  },
+  {
+   "id": 102,
+   "type": "message",
+   "date": "2021-03-31T12:53:35",
+   "from": "Tomas Gañan",
+   "from_id": "user864662278",
+   "text": "Gracias MM. Buen fin de semana, saludos!"
+  },
+  {
+   "id": 103,
+   "type": "message",
+   "date": "2021-03-31T12:54:05",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "reply_to_message_id": 99,
+   "text": "Gracias, profe! Un saludo!"
+  },
+  {
+   "id": 104,
+   "type": "message",
+   "date": "2021-03-31T12:55:18",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": "Y todos los presentes, que pasen una buenas pascuas"
+  },
+  {
+   "id": 105,
+   "type": "message",
+   "date": "2021-03-31T12:55:24",
+   "edited": "2021-03-31T12:56:31",
+   "from": "seba F",
+   "from_id": "user1005951679",
+   "text": "Muchas gracias profe!! Saludos y buen fin de semana"
+  },
+  {
+   "id": 106,
+   "type": "message",
+   "date": "2021-03-31T12:55:31",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 4,
+   "width": 180,
+   "height": 320,
+   "text": ""
+  },
+  {
+   "id": 107,
+   "type": "message",
+   "date": "2021-03-31T12:55:44",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "text": "😂😂"
+  },
+  {
+   "id": 108,
+   "type": "message",
+   "date": "2021-03-31T12:55:53",
+   "from": "Matias Navarro",
+   "from_id": "user846689643",
+   "text": "Muchas gracias profe! Buen fin de semana"
+  },
+  {
+   "id": 109,
+   "type": "message",
+   "date": "2021-03-31T12:56:55",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Gracias profe, que tenga buen fin de semana"
+  },
+  {
+   "id": 110,
+   "type": "message",
+   "date": "2021-03-31T12:57:58",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Gracias MM!! Gracias chicos!! Seguimos en contacto, excelente fin de semana!! 😚"
+  },
+  {
+   "id": 111,
+   "type": "message",
+   "date": "2021-03-31T12:57:59",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "🕺",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 112,
+   "type": "message",
+   "date": "2021-03-31T12:58:11",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Gracias profe!"
+  },
+  {
+   "id": 113,
+   "type": "message",
+   "date": "2021-03-31T13:00:32",
+   "from": "Facu Luna",
+   "from_id": "user672006577",
+   "text": "Gracias profe, buen fin de!!"
+  },
+  {
+   "id": 114,
+   "type": "message",
+   "date": "2021-03-31T13:02:35",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "text": "Muchas gracias profe!!"
+  },
+  {
+   "id": 115,
+   "type": "message",
+   "date": "2021-03-31T13:02:47",
+   "from": "Santiago Riera",
+   "from_id": "user805229404",
+   "reply_to_message_id": 99,
+   "text": "Muchas Gracias profe!!"
+  },
+  {
+   "id": 116,
+   "type": "message",
+   "date": "2021-03-31T13:34:54",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Muchas gracias profe!!!"
+  },
+  {
+   "id": 117,
+   "type": "message",
+   "date": "2021-03-31T13:37:08",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "Muchas gracias"
+  },
+  {
+   "id": 118,
+   "type": "message",
+   "date": "2021-03-31T13:40:42",
+   "from": "Nicolás Olivares",
+   "from_id": "user774340913",
+   "text": "Gracias profe, buen finde!"
+  },
+  {
+   "id": 119,
+   "type": "message",
+   "date": "2021-03-31T14:29:33",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Muchas gracias profe!"
+  },
+  {
+   "id": 121,
+   "type": "message",
+   "date": "2021-03-31T17:13:49",
+   "from": "Matias",
+   "from_id": "user867670922",
+   "text": "muchas gracias profe!!"
+  },
+  {
+   "id": 122,
+   "type": "message",
+   "date": "2021-03-31T17:15:29",
+   "from": "Lautaro G",
+   "from_id": "user858971037",
+   "text": "Muchas gracias profe!!"
+  },
+  {
+   "id": 123,
+   "type": "message",
+   "date": "2021-03-31T17:15:43",
+   "from": "Ramiro",
+   "from_id": "user978056130",
+   "text": "Gracias profe"
+  },
+  {
+   "id": 124,
+   "type": "message",
+   "date": "2021-03-31T17:23:53",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "Felices pascuas a todos. Que lo pasen excelente. Abrazos."
+  },
+  {
+   "id": 125,
+   "type": "message",
+   "date": "2021-03-31T21:20:41",
+   "from": "Matías Romani",
+   "from_id": "user652756401",
+   "text": "Gracias profe"
+  },
+  {
+   "id": 126,
+   "type": "message",
+   "date": "2021-04-02T08:56:18",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1042,
+   "height": 1042,
+   "text": "Foto de Maria Marta"
+  },
+  {
+   "id": 127,
+   "type": "message",
+   "date": "2021-04-02T08:57:10",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.facebook.com/100004575734778/posts/1556697944492715/?sfnsn=scwspwa"
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "type": "message",
+   "date": "2021-04-02T08:57:26",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Honor a nuestros Heroes!!!"
+  },
+  {
+   "id": 129,
+   "type": "message",
+   "date": "2021-04-06T15:02:56",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Estimadas/os Estudiantes, \nEspero de corazón hayan pasado unas lindas Pascuas -en paz- y rodeados de amor. \nPor razones personales y familiares me será imposible unirme a Uds. este viernes por la mañana y les presento mis más sinceras disculpas. \nSin embargo, les  propongo por favor que adelantemos la clase  al JUEVES 8 DE ABRIL de 8:30 a 11:30. Asi continuamos con el excelente ritmo que venimos adoptando. \nEntre hoy y mañana finalizo la corrección de los trabajos y los comentaremos el próximo JUEVES 8 de ABRIL . Los espero por favor. Desde ya gracias por vuestra comprensión."
+  },
+  {
+   "id": 130,
+   "type": "message",
+   "date": "2021-04-06T15:09:58",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": "Por mi no hay ningún problema en pasar la clase al jueves"
+  },
+  {
+   "id": 131,
+   "type": "message",
+   "date": "2021-04-06T15:10:59",
+   "from": "Lautaro G",
+   "from_id": "user858971037",
+   "text": "Por mi tampoco hay problema, no se si alguno cursa en la mañana"
+  },
+  {
+   "id": 132,
+   "type": "message",
+   "date": "2021-04-06T15:11:18",
+   "from": "Ramiro",
+   "from_id": "user978056130",
+   "text": "Por mi no hay problema"
+  },
+  {
+   "id": 133,
+   "type": "message",
+   "date": "2021-04-06T15:12:03",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "text": "No problem"
+  },
+  {
+   "id": 134,
+   "type": "message",
+   "date": "2021-04-06T15:13:06",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "text": "Por mí no hay problema."
+  },
+  {
+   "id": 135,
+   "type": "message",
+   "date": "2021-04-06T15:13:18",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "No hay drama"
+  },
+  {
+   "id": 136,
+   "type": "message",
+   "date": "2021-04-06T15:13:55",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Hola profe! Muchas gracias! Yo tampoco tengo problema!"
+  },
+  {
+   "id": 137,
+   "type": "message",
+   "date": "2021-04-06T15:19:43",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Holita. Nadie cursa en la mañana, ya fue verificado con Académica. No obstante grabaremos la clase."
+  },
+  {
+   "id": 138,
+   "type": "message",
+   "date": "2021-04-06T15:20:18",
+   "from": "Tomas Gañan",
+   "from_id": "user864662278",
+   "text": "Buenas tardes MM, yo trabajo, pero voy a tratar de estar! Gracias por avisar"
+  },
+  {
+   "id": 139,
+   "type": "message",
+   "date": "2021-04-06T15:20:47",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Gracias a ti Tomas y mil disculpas."
+  },
+  {
+   "id": 140,
+   "type": "message",
+   "date": "2021-04-06T15:21:02",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "text": "No hay drama profe!! Ahí estaremos..."
+  },
+  {
+   "id": 141,
+   "type": "message",
+   "date": "2021-04-06T15:26:53",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "No hay problema 👍🏻👍🏻"
+  },
+  {
+   "id": 142,
+   "type": "message",
+   "date": "2021-04-06T15:27:43",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "No hay problema profe"
+  },
+  {
+   "id": 143,
+   "type": "message",
+   "date": "2021-04-06T15:28:04",
+   "from": "Nicolás Olivares",
+   "from_id": "user774340913",
+   "text": "No hay problema profe"
+  },
+  {
+   "id": 144,
+   "type": "message",
+   "date": "2021-04-06T15:30:00",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Hola profe, no hay ningun problema!"
+  },
+  {
+   "id": 145,
+   "type": "message",
+   "date": "2021-04-06T15:41:44",
+   "from": "Santiago Martinez",
+   "from_id": "user807010702",
+   "text": "No profe, no hay ningun problema"
+  },
+  {
+   "id": 146,
+   "type": "message",
+   "date": "2021-04-06T16:06:31",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "text": "Nos vemos el jueves, profe!"
+  },
+  {
+   "id": 147,
+   "type": "message",
+   "date": "2021-04-06T16:19:22",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "reply_to_message_id": 137,
+   "text": "yo el jueves en la mañana curso otra materia María Marta, pero me pongo al día con la clase grabada, no hay ningún problema. Gracias por avisar"
+  },
+  {
+   "id": 148,
+   "type": "message",
+   "date": "2021-04-06T16:21:16",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Ok Ramiro. Estamos a un meet de distancia para lo que necesites. Mil disculpas."
+  },
+  {
+   "id": 149,
+   "type": "message",
+   "date": "2021-04-06T16:47:17",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "reply_to_message_id": 148,
+   "text": "por favor, no pida disculpas María Marta, no hay ningún inconveniente. Desde ya muchas gracias por brindarse. Saludos."
+  },
+  {
+   "id": 150,
+   "type": "message",
+   "date": "2021-04-08T07:19:06",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Estimados buen día, les confío e link para nuestra clase de las 8:30. Gracias. Los espero."
+  },
+  {
+   "id": 151,
+   "type": "message",
+   "date": "2021-04-08T07:19:12",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "ID de la reunión\n",
+    {
+     "type": "link",
+     "text": "meet.google.com/hnu-fvkh-pos"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 152,
+   "type": "message",
+   "date": "2021-04-08T07:20:21",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "text": "Joya"
+  },
+  {
+   "id": 153,
+   "type": "message",
+   "date": "2021-04-08T08:44:33",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "text": ""
+  },
+  {
+   "id": 154,
+   "type": "message",
+   "date": "2021-04-08T08:45:21",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Les ruego por favor leer este texto y ordenarlo"
+  },
+  {
+   "id": 155,
+   "type": "message",
+   "date": "2021-04-08T10:05:55",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "text": ""
+  },
+  {
+   "id": 156,
+   "type": "message",
+   "date": "2021-04-08T10:46:41",
+   "from": "Lautaro G",
+   "from_id": "user858971037",
+   "text": "Profe se me corto la luz"
+  },
+  {
+   "id": 157,
+   "type": "message",
+   "date": "2021-04-08T14:44:06",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 158,
+   "type": "message",
+   "date": "2021-04-08T14:44:37",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Link de la carpeta drive de grabaciones subido🙏"
+  },
+  {
+   "id": 159,
+   "type": "message",
+   "date": "2021-04-08T14:54:46",
+   "from": "Tomas Gañan",
+   "from_id": "user864662278",
+   "text": "Muchas gracias MM!"
+  },
+  {
+   "id": 160,
+   "type": "message",
+   "date": "2021-04-15T10:22:19",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Estimado Equipo!!! ¿Listos para mañana? Tenemos mucho por adelantar y cuento con vuestro entusiasmo y motivación. Menú para mañana: 1- feed back de TP1 (todo ya ha sido corregido, si tienen dudas las preparan para mañana); 2- Avanzaremos con temas asociados: COMUNICACION ACADEMICA / al ESCRITO nos concentraremos en sistema de puntuación y ahondaremos en FORMULACION DE OBJETIVOS Y CREACION DE BUENOS TITULOS y  3- PREPARAREMOS ítemes de participación para la JORNADA DE ENCUENTRO  DE PASADO MAÑANA 👍👍👍👍👍. Cuento con Uds. 🙏🙏🙏🙏🙏🙏✍✍✍✍✍✍✍"
+  },
+  {
+   "id": 161,
+   "type": "message",
+   "date": "2021-04-15T10:22:38",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Esta noche comparto link 👌"
+  },
+  {
+   "id": 162,
+   "type": "message",
+   "date": "2021-04-15T10:23:51",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Que tengan una hermosa jornada y por favor CUIDENSE MUCHO pues así cuidaran y protegerán a sus seres queridos 🙏"
+  },
+  {
+   "id": 163,
+   "type": "message",
+   "date": "2021-04-15T10:24:26",
+   "from": "Nicolás Olivares",
+   "from_id": "user774340913",
+   "text": "Buenísimo profe, nos vemos mañana 👌"
+  },
+  {
+   "id": 164,
+   "type": "message",
+   "date": "2021-04-15T10:25:20",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Genial profe 👍🏻"
+  },
+  {
+   "id": 165,
+   "type": "message",
+   "date": "2021-04-15T10:34:16",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Bueno profe, nos veremos mañana"
+  },
+  {
+   "id": 166,
+   "type": "message",
+   "date": "2021-04-15T10:35:58",
+   "from": "Santiago Martinez",
+   "from_id": "user807010702",
+   "text": "Nos vemos mañana profe!"
+  },
+  {
+   "id": 167,
+   "type": "message",
+   "date": "2021-04-15T10:56:10",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Gracias Profe!"
+  },
+  {
+   "id": 168,
+   "type": "message",
+   "date": "2021-04-15T12:11:52",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "Gracias profe, igualmente."
+  },
+  {
+   "id": 169,
+   "type": "message",
+   "date": "2021-04-15T12:58:24",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Buenísimo profe! Gracias nos vemos mañana"
+  },
+  {
+   "id": 170,
+   "type": "message",
+   "date": "2021-04-15T20:43:59",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1187,
+   "height": 1280,
+   "text": "Foto de Maria Marta"
+  },
+  {
+   "id": 171,
+   "type": "message",
+   "date": "2021-04-15T20:44:25",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Estimadas/os, nuestra invitación formal para el sábado."
+  },
+  {
+   "id": 172,
+   "type": "message",
+   "date": "2021-04-15T20:44:52",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Lean la y mañana lo comentamos."
+  },
+  {
+   "id": 173,
+   "type": "message",
+   "date": "2021-04-15T20:45:02",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "text": "joya! muchas gracias!"
+  },
+  {
+   "id": 174,
+   "type": "message",
+   "date": "2021-04-15T20:45:06",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Los esperamos con gran placer."
+  },
+  {
+   "id": 175,
+   "type": "message",
+   "date": "2021-04-15T20:46:16",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Gracias profe!"
+  },
+  {
+   "id": 176,
+   "type": "message",
+   "date": "2021-04-15T20:46:56",
+   "from": "Facu Luna",
+   "from_id": "user672006577",
+   "text": "Buenisimo profe!"
+  },
+  {
+   "id": 177,
+   "type": "message",
+   "date": "2021-04-15T20:49:00",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 178,
+   "type": "message",
+   "date": "2021-04-15T20:49:46",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Genial profe"
+  },
+  {
+   "id": 179,
+   "type": "message",
+   "date": "2021-04-15T21:01:39",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "text": "Gracias profe!!"
+  },
+  {
+   "id": 180,
+   "type": "message",
+   "date": "2021-04-16T07:50:36",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "Buen día Hermoso Equipo TIF 1, \nProntos a iniciar una nueva jornada y una nueva clase, les confío el ID de nuestro meet:\n",
+    {
+     "type": "link",
+     "text": "meet.google.com/xvi-jcyu-oex"
+    },
+    "\nHay mucho por hacer asi que cuento con vuestro entusiasmo y excelente predisposición. \nHasta enseguida."
+   ]
+  },
+  {
+   "id": 181,
+   "type": "message",
+   "date": "2021-04-16T08:11:11",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Buenos días profe! A qué hora empieza la clase?"
+  },
+  {
+   "id": 182,
+   "type": "message",
+   "date": "2021-04-16T08:13:38",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buen dia Daiana, de 9 a 12 como cada viernes."
+  },
+  {
+   "id": 183,
+   "type": "message",
+   "date": "2021-04-16T08:13:58",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Gracias!"
+  },
+  {
+   "id": 184,
+   "type": "message",
+   "date": "2021-04-16T08:14:10",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "text": "Podes dormir un ratito más"
+  },
+  {
+   "id": 185,
+   "type": "message",
+   "date": "2021-04-16T08:15:01",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Hoy no.... mañana TAMPOCO... el domingo siiiii 😂😂😂😂"
+  },
+  {
+   "id": 186,
+   "type": "message",
+   "date": "2021-04-16T08:15:27",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Yo les preparo cafe !!! Vamos arriba !!"
+  },
+  {
+   "id": 187,
+   "type": "message",
+   "date": "2021-04-16T08:16:08",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 189,
+   "type": "message",
+   "date": "2021-04-16T16:33:50",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://youtu.be/9u_caz6gZho"
+    }
+   ]
+  },
+  {
+   "id": 190,
+   "type": "message",
+   "date": "2021-04-16T16:34:18",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Queridos estudiantes!!! Ayudennos a volver!!!!!"
+  },
+  {
+   "id": 191,
+   "type": "message",
+   "date": "2021-04-17T07:41:08",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 742,
+   "height": 800,
+   "text": ""
+  },
+  {
+   "id": 192,
+   "type": "message",
+   "date": "2021-04-17T07:41:08",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Estimados Estudiantes, disculpen la hora. Aqui les confío el link de la reunión de enseguida."
+  },
+  {
+   "id": 193,
+   "type": "message",
+   "date": "2021-04-17T07:41:37",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    {
+     "type": "link",
+     "text": "meet.google.com/wrm-zawo-tsu"
+    }
+   ]
+  },
+  {
+   "id": 194,
+   "type": "message",
+   "date": "2021-04-17T13:33:57",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Como dijo Diego Navarro \"en la FI/UM no solo se enseña tecnología, sino que también transmitimos valores\" y Uds . hoy nos han transmitido el valor del empeño y del interés en pos de una meta. Un LUJO haber evidenciado esta experiencia junto a Uds. Gracias y buen finde."
+  },
+  {
+   "id": 195,
+   "type": "message",
+   "date": "2021-04-17T13:35:06",
+   "from": "Santiago Martinez",
+   "from_id": "user807010702",
+   "text": "Muchas gracias a usted María Marta! Buen finde!!"
+  },
+  {
+   "id": 196,
+   "type": "message",
+   "date": "2021-04-17T13:35:34",
+   "from": "seba F",
+   "from_id": "user1005951679",
+   "text": "Gracias a ustedes! Por la dedicación y por trabajar en este nuevo proyecto que sin dudas nos beneficiará a todos"
+  },
+  {
+   "id": 197,
+   "type": "message",
+   "date": "2021-04-17T13:35:41",
+   "from": "seba F",
+   "from_id": "user1005951679",
+   "text": "Saludos y buen finde!"
+  },
+  {
+   "id": 198,
+   "type": "message",
+   "date": "2021-04-17T13:35:44",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "reply_to_message_id": 194,
+   "text": "Gracias a ustedes por al oportunidad de hoy! 😁"
+  },
+  {
+   "id": 199,
+   "type": "message",
+   "date": "2021-04-17T13:35:52",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": "Espero tengan un buen fin de semana"
+  },
+  {
+   "id": 200,
+   "type": "message",
+   "date": "2021-04-17T13:36:00",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "🚪",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 201,
+   "type": "message",
+   "date": "2021-04-17T13:36:27",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Realmente una experiencia muy enriquecedora y motivadora! Gracias MM y a todo el equipo!!"
+  },
+  {
+   "id": 202,
+   "type": "message",
+   "date": "2021-04-17T13:36:40",
+   "from": "Matias Navarro",
+   "from_id": "user846689643",
+   "text": "Gracias a ustedes por la dedicación! Un gusto formar parte. Buen finde semana!"
+  },
+  {
+   "id": 203,
+   "type": "message",
+   "date": "2021-04-17T13:37:00",
+   "from": "Tomas Gañan",
+   "from_id": "user864662278",
+   "text": "Gracias a cada uno de ustedes por el tiempo brindado, sigamos avanzando juntos. Saludos y éxitos !!"
+  },
+  {
+   "id": 204,
+   "type": "message",
+   "date": "2021-04-17T13:37:27",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "text": "Muchas gracias por la oportunidad que hoy nos han dado, fue de gran utilidad. Que tengan un lindo fin de semana!"
+  },
+  {
+   "id": 205,
+   "type": "message",
+   "date": "2021-04-17T13:38:05",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Muchas gracias a cada uno de ustedes por esta experiencia, sin duda muy enriquecedora para todos. Buen finde!"
+  },
+  {
+   "id": 206,
+   "type": "message",
+   "date": "2021-04-17T13:38:57",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "Gracias Maria Marta a usted y todo el equipo, que sin dudas, evidenciado en el meet, están tratando de darle una impronta nueva y superadora a la antes (a mi ver) anticuada Tesis. Me voy con más preguntas que respuestas y, como dijo Diego Navarro, era lo planeado así que voy dudoso pero tranquilo. Gracias!!!"
+  },
+  {
+   "id": 207,
+   "type": "message",
+   "date": "2021-04-17T13:39:23",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "text": "Gracias a todos también por la información que han aportado, y las preguntas realizadas."
+  },
+  {
+   "id": 208,
+   "type": "message",
+   "date": "2021-04-21T16:56:59",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Hola Equipo TIF 1!!!!Esperonse encuentren muy bien, cuidándose. Acabo de subir el.PTT del.Ing. Carlos Tomba para aquellos que deseen consultarlo."
+  },
+  {
+   "id": 209,
+   "type": "message",
+   "date": "2021-04-21T17:12:58",
+   "from": "Facu Luna",
+   "from_id": "user672006577",
+   "text": "Hola profe, buenísimo! Muchas gracias !"
+  },
+  {
+   "id": 210,
+   "type": "message",
+   "date": "2021-04-21T17:23:35",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Seguimos a un \"TELEGRAM\" de distancia!!!"
+  },
+  {
+   "id": 211,
+   "type": "message",
+   "date": "2021-04-22T14:00:22",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Estimados Estudiantes, aquí les confío el ID para mañana a las 9:00. Los espero con muchas ganas de seguir avanzando."
+  },
+  {
+   "id": 212,
+   "type": "message",
+   "date": "2021-04-22T14:00:28",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "ID de la reunión\n",
+    {
+     "type": "link",
+     "text": "meet.google.com/jmz-sffv-tje"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 213,
+   "type": "message",
+   "date": "2021-04-22T14:05:15",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "text": "Genial profe nos vemos mañana"
+  },
+  {
+   "id": 214,
+   "type": "message",
+   "date": "2021-04-22T16:30:58",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Les comparto dos eventos de charlas por si les interesa: 1. sobre DERECHO y TECNOLOGIA ( protección de datos ) LIBRE Y GRATUITO"
+  },
+  {
+   "id": 215,
+   "type": "message",
+   "date": "2021-04-22T16:31:11",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.losandes.com.ar/espacio-de-marca/llega-a-mendoza-el-evento-virtual-de-thomson-reuters-sobre-el-derecho-la-tecnologia-y-el-futuro/"
+    }
+   ]
+  },
+  {
+   "id": 216,
+   "type": "message",
+   "date": "2021-04-22T16:31:50",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Aunque dirigido a abogados NO se olviden que en muchos casos se necesita trabajar interdisciplinariamente"
+  },
+  {
+   "id": 217,
+   "type": "message",
+   "date": "2021-04-22T16:32:55",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Y esta otra cuyo link lo ha compartido el Ing.  Fabian  Tallio"
+  },
+  {
+   "id": 218,
+   "type": "message",
+   "date": "2021-04-22T16:33:10",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "el tema es que es mañana a las 10 durante nuestra clase...."
+  },
+  {
+   "id": 219,
+   "type": "message",
+   "date": "2021-04-22T16:33:16",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://event.webinarjam.com/channel/securitytrip"
+    }
+   ]
+  },
+  {
+   "id": 220,
+   "type": "message",
+   "date": "2021-04-22T16:33:46",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Lo charlamos al comenzar la clase."
+  },
+  {
+   "id": 221,
+   "type": "message",
+   "date": "2021-04-22T16:34:13",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": "Genial, muchas gracias María Marta 😁"
+  },
+  {
+   "id": 222,
+   "type": "message",
+   "date": "2021-04-23T12:28:23",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Profe, 2 preguntitas:\nDónde subimos las presentaciones de hoy?\nA que mail le mandamos la invitación de Drive para que pueda ver los textos que vamos haciendo?"
+  },
+  {
+   "id": 223,
+   "type": "message",
+   "date": "2021-04-23T12:41:19",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "Arian: 1- lo subirán  a la Catedra \n, mañana lo habilito. 2- a mi e- mail ",
+    {
+     "type": "email",
+     "text": "maria.arrieta@um.edu.ar"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 224,
+   "type": "message",
+   "date": "2021-04-23T12:48:39",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Profe, una pregunta, yo he estado buscando sobre la seguridad biométrica y me a salido varios no muy actualizados (por ejemplo 2010, 2012), me va a servir esos artículos o ya es bastante obsoleto la información?"
+  },
+  {
+   "id": 225,
+   "type": "message",
+   "date": "2021-04-23T14:21:10",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "reply_to_message_id": 223,
+   "text": "Muchas gracias profe"
+  },
+  {
+   "id": 226,
+   "type": "message",
+   "date": "2021-04-23T14:24:57",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Pablo, se consideran de actualidad hasta cinco años atrás, es decir 2016. No los desheches pero intenta buscar más actualizados."
+  },
+  {
+   "id": 227,
+   "type": "message",
+   "date": "2021-04-23T14:25:32",
+   "edited": "2021-04-23T14:26:12",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "reply_to_message_id": 226,
+   "text": "Ah bueno, lo voy a tener en cuenta"
+  },
+  {
+   "id": 228,
+   "type": "message",
+   "date": "2021-04-23T14:25:34",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "reply_to_message_id": 224,
+   "text": "Perdón la anterior es respuesta a esto. Gracias"
+  },
+  {
+   "id": 229,
+   "type": "message",
+   "date": "2021-04-26T12:58:57",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Estimadas/os, esperando hayan tenido un tranquilo finde, les deseo una hermosa semana. Disculpas  a quienes me han escrito por privado, hoy mismo les respondo. Tan solo para avisarles que la clase del pasado viernes, ya está en la carpeta drive y que también en la Catedra Virtual está subido el PDF de pragmática y el TP 2 para que cuelguen allí por favor el PPT (convertido en PDF) sobre la actividad del  1 Encuentro. El miércoles habilitó el TP 3 sobre COMUNICACION Y DEICTICOS"
+  },
+  {
+   "id": 230,
+   "type": "message",
+   "date": "2021-04-26T14:37:20",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Gracias María Marta!!"
+  },
+  {
+   "id": 231,
+   "type": "message",
+   "date": "2021-04-26T16:41:54",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "reply_to_message_id": 229,
+   "text": "Perfecto, profe! Ahi lo mande..."
+  },
+  {
+   "id": 232,
+   "type": "message",
+   "date": "2021-04-28T12:40:48",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Hola EQUIPO TIF 1!!! CÓMO ANDAMOS?!?! Ayer envié un mensaje desde la cátedra a vuestros correos. Por favor, lean lo y avancen!!!! Diganme si lo han recibido, porfi."
+  },
+  {
+   "id": 233,
+   "type": "message",
+   "date": "2021-04-28T12:41:00",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Cariños y a CUIDARSE!!!"
+  },
+  {
+   "id": 234,
+   "type": "message",
+   "date": "2021-04-28T12:45:13",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Hola profe! Si ahi llego su mensaje!"
+  },
+  {
+   "id": 235,
+   "type": "message",
+   "date": "2021-04-28T12:48:33",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "text": "De ayer no tengo ningún correo"
+  },
+  {
+   "id": 236,
+   "type": "message",
+   "date": "2021-04-28T12:49:43",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "text": "En la catedra si"
+  },
+  {
+   "id": 237,
+   "type": "message",
+   "date": "2021-04-28T12:53:56",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Verifiquen su correo de alumno.um"
+  },
+  {
+   "id": 238,
+   "type": "message",
+   "date": "2021-04-28T12:54:31",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Es importante. Por favor, gracias"
+  },
+  {
+   "id": 239,
+   "type": "message",
+   "date": "2021-04-28T12:56:28",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "reply_to_message_id": 232,
+   "text": "Buenas tardes María Marta, cómo está? Yo aún no he recibido correo..."
+  },
+  {
+   "id": 240,
+   "type": "message",
+   "date": "2021-04-28T12:56:54",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "text": "Rami fíjate en la cátedra en mensajes!! Yo tampoco lo recibí pero lo leí x ahí"
+  },
+  {
+   "id": 241,
+   "type": "message",
+   "date": "2021-04-28T12:59:15",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Raro que no lo.hayan recibido!!"
+  },
+  {
+   "id": 242,
+   "type": "message",
+   "date": "2021-04-28T12:59:58",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Entro en reunión en Rectorado. Si desean alguien copie y peque el texto del mensaje aquí 🙏🙏🙏"
+  },
+  {
+   "id": 243,
+   "type": "message",
+   "date": "2021-04-28T13:00:17",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "text": "Ok"
+  },
+  {
+   "id": 244,
+   "type": "message",
+   "date": "2021-04-28T13:00:33",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": "Estimadas/os Estudiantes,\nUn gusto saludarlos y espero se encuentren todos muy bien al igual que vuestros seres queridos. Demosle batalla al COVID !!! y cuidémonos.\n\nDos avisos: la Cátedra Virtual está actualizada y el TP 3 ya está habilitado.\n\nPor otro lado, hay un video sobre ESTRUCTURA ARGUMENTAL que los invito a descubrir y una lectura para este viernes 30.\n\nPerdón por \"recordarlos con tantaaaaa estima plasmada en trabajo\" pero Uds. son los mejores y todo esfuerzo vale la pena.\nEn este TIF 1 haremos ENSAYOS ACADÉMICOS a vuestro nivel !!! Seguimos en contacto.\nMaria Marta"
+  },
+  {
+   "id": 245,
+   "type": "message",
+   "date": "2021-04-28T13:01:10",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Gracias Juli!"
+  },
+  {
+   "id": 246,
+   "type": "message",
+   "date": "2021-04-28T13:01:21",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": "No hay de que n.n"
+  },
+  {
+   "id": 247,
+   "type": "message",
+   "date": "2021-04-28T13:02:48",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "Gracias!!!!"
+  },
+  {
+   "id": 248,
+   "type": "message",
+   "date": "2021-04-28T15:05:41",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "Hola profe buenas tardes, queria consultarle una duda. Termine el TP 3 y al finalizar el cuestionario no me dio el resultado del mismo. En teoria son dos intentos, pero no se si realizar un segundo intento porque no se como califique. Gracias"
+  },
+  {
+   "id": 249,
+   "type": "message",
+   "date": "2021-04-28T15:10:31",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Matias se retendrá la CALIFICACION MAS ALTA."
+  },
+  {
+   "id": 250,
+   "type": "message",
+   "date": "2021-04-28T15:11:15",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "No se si asustarme con lo que me dice"
+  },
+  {
+   "id": 251,
+   "type": "message",
+   "date": "2021-04-28T15:12:24",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Asustarte?!?! Por qué? Si hay 2 intentos retendremos la nota más alta."
+  },
+  {
+   "id": 252,
+   "type": "message",
+   "date": "2021-04-28T15:12:45",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "Aaaa bien. Ya entendi"
+  },
+  {
+   "id": 253,
+   "type": "message",
+   "date": "2021-04-28T15:12:52",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "Gracias profe"
+  },
+  {
+   "id": 254,
+   "type": "message",
+   "date": "2021-04-28T15:13:03",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Hay tres estudiantes que han completado un intento y las notas son entre 7 y 7,50"
+  },
+  {
+   "id": 255,
+   "type": "message",
+   "date": "2021-04-28T15:13:32",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Yo lo intentaría nuevamente luego de leer todo."
+  },
+  {
+   "id": 256,
+   "type": "message",
+   "date": "2021-04-28T15:14:28",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "Gracias profe. Estos cuestionarios me suben la adrenalina"
+  },
+  {
+   "id": 257,
+   "type": "message",
+   "date": "2021-04-28T15:16:05",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Me asustas?!?!\nEso es bueno o malo?!?!"
+  },
+  {
+   "id": 258,
+   "type": "message",
+   "date": "2021-04-28T15:16:41",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "A veces puede ser bueno a veces puede ser malo"
+  },
+  {
+   "id": 259,
+   "type": "message",
+   "date": "2021-04-28T15:17:42",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "En tu caso?!?! Yo en lo personal.bajo adrenalina estres😂😂😂, alcanzo mis mejores resultados"
+  },
+  {
+   "id": 260,
+   "type": "message",
+   "date": "2021-04-28T17:09:38",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Estimados, estoy revisando los drive compartidos y dejando en algunos casos ciertos comentarios. Julián Campana lo compartido es una carpeta pero esta vacía. Es así o estoy teniendo algún problema yo para visualizar?"
+  },
+  {
+   "id": 261,
+   "type": "message",
+   "date": "2021-04-28T18:07:06",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "reply_to_message_id": 260,
+   "text": "Sisi, por ahora es una carpeta vacia"
+  },
+  {
+   "id": 262,
+   "type": "message",
+   "date": "2021-04-28T18:09:18",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Perfecto. Gracias. Aguardo entonces"
+  },
+  {
+   "id": 263,
+   "type": "message",
+   "date": "2021-04-28T18:17:04",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Buenas tardes profe, una consulta, el TP 3 hay que contestar basándonos solo en el PDF \"La pragmática y los deícticos\"?"
+  },
+  {
+   "id": 265,
+   "type": "message",
+   "date": "2021-04-28T18:24:59",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "No solo en eso ... mucho de lógica y reflexión!!!"
+  },
+  {
+   "id": 266,
+   "type": "message",
+   "date": "2021-04-28T18:26:03",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Ok, gracias!"
+  },
+  {
+   "id": 267,
+   "type": "message",
+   "date": "2021-04-29T16:30:47",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "Estimados, estamos con muchísimo trabajo en mi oficina. Alguien puede ser tan gentil en agregar a un nuevo compañero Nicolás Contreras cuyo número es ",
+    {
+     "type": "phone",
+     "text": "2604587629"
+    },
+    " . Mil gracias 🙏🙏🙏🙏"
+   ]
+  },
+  {
+   "id": 268,
+   "type": "message",
+   "date": "2021-04-29T16:31:34",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "text": "Profe le deje un mensaje x privado"
+  },
+  {
+   "id": 269,
+   "type": "service",
+   "date": "2021-04-29T16:31:51",
+   "actor": "Esteban",
+   "actor_id": "user859940597",
+   "action": "invite_members",
+   "members": [
+    "Nicolas Contreras"
+   ],
+   "text": ""
+  },
+  {
+   "id": 270,
+   "type": "message",
+   "date": "2021-04-29T16:32:44",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Jonathan tan pronto tenga un minuto ingreso a la Catedra. 🙏🙏🙏🙏🙏"
+  },
+  {
+   "id": 271,
+   "type": "message",
+   "date": "2021-04-29T18:06:09",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Estimadas/os Estudiantes, recuerden que Uds mismos pueden ver sus notas ingresando a la Catedra nuestra,  y si verifican en el panel a la izquierda dice CALIFICACIONES. cliquean allí y consultan. Hay excelentes notas y para todos aquellos que tengan menos de 8, los INSTO SINCERAMENTE a intentarlo nuevamente, por favor. Vamos que todos pueden obtener 8 o más que esa nota🙏🙏🙏🙏🙏🙏✍✍✍✍✍✍"
+  },
+  {
+   "id": 272,
+   "type": "message",
+   "date": "2021-04-29T18:09:13",
+   "from": "Santiago Martinez",
+   "from_id": "user807010702",
+   "text": "Profe, no me sale la nota del cuestionario en el apartado de calificaciones"
+  },
+  {
+   "id": 273,
+   "type": "message",
+   "date": "2021-04-29T18:09:48",
+   "from": "Facu Luna",
+   "from_id": "user672006577",
+   "text": "Profe a mi tampoco me sale la nota del último cuestionario"
+  },
+  {
+   "id": 274,
+   "type": "message",
+   "date": "2021-04-29T18:12:23",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "reply_to_message_id": 272,
+   "text": "9 👍"
+  },
+  {
+   "id": 275,
+   "type": "message",
+   "date": "2021-04-29T18:13:00",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "A mi tampoco me figura la nota de los cuestionarios"
+  },
+  {
+   "id": 276,
+   "type": "message",
+   "date": "2021-04-29T18:13:19",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "reply_to_message_id": 273,
+   "text": "9"
+  },
+  {
+   "id": 277,
+   "type": "message",
+   "date": "2021-04-29T18:13:22",
+   "from": "Santiago Martinez",
+   "from_id": "user807010702",
+   "text": "Gracias!!"
+  },
+  {
+   "id": 278,
+   "type": "message",
+   "date": "2021-04-29T18:14:07",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 38,
+   "text": ""
+  },
+  {
+   "id": 279,
+   "type": "message",
+   "date": "2021-04-29T18:14:14",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Creo q a ninguno aun nos figura 😕"
+  },
+  {
+   "id": 280,
+   "type": "message",
+   "date": "2021-04-29T18:14:39",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Porq a mi tampoco me figura"
+  },
+  {
+   "id": 281,
+   "type": "message",
+   "date": "2021-04-29T18:15:01",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "reply_to_message_id": 275,
+   "text": "Pablo 7,50 intentalo nuevamente 👍👍👍🙏🙏🙏🙏"
+  },
+  {
+   "id": 282,
+   "type": "message",
+   "date": "2021-04-29T18:15:07",
+   "from": "Facu Luna",
+   "from_id": "user672006577",
+   "text": "Buenísimo, profe muchas gracias!"
+  },
+  {
+   "id": 283,
+   "type": "message",
+   "date": "2021-04-29T18:15:52",
+   "from": "seba F",
+   "from_id": "user1005951679",
+   "text": "Yo no lo veo tampoco profe"
+  },
+  {
+   "id": 284,
+   "type": "message",
+   "date": "2021-04-29T18:15:53",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "reply_to_message_id": 281,
+   "text": "🙈 que cerca, y adonde figura para poder hacerlo de nuevo?(ya hice mis 2 intentos)"
+  },
+  {
+   "id": 285,
+   "type": "message",
+   "date": "2021-04-29T18:18:23",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Pablo tengo el registro actualizado con tu segundo intento!!!🙏🙏🙏👍👍👍👍👍👍Te superaste 9"
+  },
+  {
+   "id": 286,
+   "type": "message",
+   "date": "2021-04-29T18:19:08",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "🥳🥳🥳"
+  },
+  {
+   "id": 287,
+   "type": "message",
+   "date": "2021-04-29T18:19:12",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "text": "Profe me diría mi nota?"
+  },
+  {
+   "id": 288,
+   "type": "message",
+   "date": "2021-04-29T18:19:15",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "text": "Gracias"
+  },
+  {
+   "id": 289,
+   "type": "message",
+   "date": "2021-04-29T18:19:17",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "reply_to_message_id": 283,
+   "text": "Sebastián Ciancia?"
+  },
+  {
+   "id": 290,
+   "type": "message",
+   "date": "2021-04-29T18:19:33",
+   "from": "seba F",
+   "from_id": "user1005951679",
+   "reply_to_message_id": 289,
+   "text": "Si profe!"
+  },
+  {
+   "id": 291,
+   "type": "message",
+   "date": "2021-04-29T18:19:51",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "reply_to_message_id": 287,
+   "text": "7 intentalo nuevamente"
+  },
+  {
+   "id": 292,
+   "type": "message",
+   "date": "2021-04-29T18:20:08",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "reply_to_message_id": 290,
+   "text": "9👍"
+  },
+  {
+   "id": 293,
+   "type": "message",
+   "date": "2021-04-29T18:20:22",
+   "from": "seba F",
+   "from_id": "user1005951679",
+   "text": "Gracias!"
+  },
+  {
+   "id": 294,
+   "type": "message",
+   "date": "2021-04-29T18:21:02",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Alguien mas??? Me desconecto??"
+  },
+  {
+   "id": 295,
+   "type": "message",
+   "date": "2021-04-29T18:21:15",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Ramiro pintos"
+  },
+  {
+   "id": 296,
+   "type": "message",
+   "date": "2021-04-29T18:21:17",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "text": "Ya gaste los 2 intentos, como hago otro?"
+  },
+  {
+   "id": 297,
+   "type": "message",
+   "date": "2021-04-29T18:21:21",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Yo estoy en el trabajo ahora , no eh podido hacerlo llego y lo hago"
+  },
+  {
+   "id": 298,
+   "type": "message",
+   "date": "2021-04-29T18:22:26",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "reply_to_message_id": 295,
+   "text": "Ramiro solo 1 intento y tiene 7,5"
+  },
+  {
+   "id": 299,
+   "type": "message",
+   "date": "2021-04-29T18:22:41",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "reply_to_message_id": 297,
+   "text": "👌"
+  },
+  {
+   "id": 300,
+   "type": "message",
+   "date": "2021-04-29T18:23:20",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Profe yo hice los dos intentos"
+  },
+  {
+   "id": 301,
+   "type": "message",
+   "date": "2021-04-29T18:24:34",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Quienes hayan intentado 2 veces sin lograr 8... lo hablamos mañana"
+  },
+  {
+   "id": 302,
+   "type": "message",
+   "date": "2021-04-29T18:25:17",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Les ruego reflexionen qué puede haberles pasado. Y en qué puedo ayudarlos."
+  },
+  {
+   "id": 303,
+   "type": "message",
+   "date": "2021-04-29T19:02:20",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Profe, me diría mi nota? Soy Augusto Misino"
+  },
+  {
+   "id": 304,
+   "type": "message",
+   "date": "2021-04-29T19:09:48",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": "Yo ya realice los dos intentos pero no me sale la nota todavía"
+  },
+  {
+   "id": 305,
+   "type": "message",
+   "date": "2021-04-29T21:08:51",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "hola profe acabo de llegar del trabajo"
+  },
+  {
+   "id": 306,
+   "type": "message",
+   "date": "2021-04-29T21:08:59",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "no esta disponible el TP3"
+  },
+  {
+   "id": 307,
+   "type": "message",
+   "date": "2021-04-29T21:09:11",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "se cerró a las 20:00 😢"
+  },
+  {
+   "id": 308,
+   "type": "message",
+   "date": "2021-04-29T22:43:45",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "yo también acabo de terminar de trabajar y ya cerró"
+  },
+  {
+   "id": 309,
+   "type": "message",
+   "date": "2021-04-29T22:43:53",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "🙈"
+  },
+  {
+   "id": 310,
+   "type": "message",
+   "date": "2021-04-30T07:33:32",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buen día Equipo TIF 1 !!! 📣📣📣📣 Aqui dejo ID para enseguida !!!"
+  },
+  {
+   "id": 311,
+   "type": "message",
+   "date": "2021-04-30T07:33:42",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "ID de la reunión\n",
+    {
+     "type": "link",
+     "text": "meet.google.com/prf-owdp-ddi"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 312,
+   "type": "message",
+   "date": "2021-05-01T08:40:30",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "A mis \"apreciados e infatigables\" trabajadores del TIF 1 mi profundo respeto y reconocimiento por cada esfuerzo entregado -con honestidad y empeño- para alcanzar vuestra meta. Vivir es una bendición y poder trabajar en lo que uno ama - en mi caso la docencia- es una oportunidad, día a día, que me lanza nuevos desafíos y me permite seguir creyendo en un presente prometedor y en un  mañana mejor. Uds. Jóvenes trabajadores del  TIF 1, HOY son parte de  esa esperanza. Tenemos en Uds. depositada nuestra confianza pues sabemos que lo lograremos!! Feliz Día!!!"
+  },
+  {
+   "id": 313,
+   "type": "message",
+   "date": "2021-05-01T08:50:02",
+   "from": "seba F",
+   "from_id": "user1005951679",
+   "text": "Muchas gracias profe! Feliz día para usted también"
+  },
+  {
+   "id": 314,
+   "type": "message",
+   "date": "2021-05-01T09:18:17",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "Gracias María Marta por tan hermosas palabras.  Feliz día de la/del trabajador/a que lo pasen excepcional"
+  },
+  {
+   "id": 315,
+   "type": "message",
+   "date": "2021-05-01T09:19:04",
+   "from": "Matias Navarro",
+   "from_id": "user846689643",
+   "text": "Profe muchas gracias! Feliz dia para usted también!"
+  },
+  {
+   "id": 316,
+   "type": "message",
+   "date": "2021-05-02T18:26:37",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buenas tardes, como me comprometí, les informo que ya está habilitado el TP 3 sobre la PRAGMATICA, con una extensión de plazo hasta EL MIERCOLES 5. Saludos y muy buena semana."
+  },
+  {
+   "id": 317,
+   "type": "message",
+   "date": "2021-05-02T18:27:40",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Buenas tardes, gracias profe. Excelente semana para todos!"
+  },
+  {
+   "id": 318,
+   "type": "message",
+   "date": "2021-05-02T22:20:22",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "reply_to_message_id": 316,
+   "text": "Profe, Esta la extensión correcta, pero esta limitado a 2 intentos, por lo que no se puede realizar más intentos por más que tenga una nueva fecha limite"
+  },
+  {
+   "id": 319,
+   "type": "message",
+   "date": "2021-05-03T08:18:15",
+   "from": "Santiago Riera",
+   "from_id": "user805229404",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 720,
+   "height": 1004,
+   "text": "Para abrir un poco el espectro en cuanto a fuentes confiables se refiere"
+  },
+  {
+   "id": 320,
+   "type": "message",
+   "date": "2021-05-03T08:22:56",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "reply_to_message_id": 316,
+   "text": "Buen día a todos, muchas gracias Profe. Tengan excelente semana. Abrazo."
+  },
+  {
+   "id": 321,
+   "type": "message",
+   "date": "2021-05-03T18:04:42",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "reply_to_message_id": 319,
+   "text": "Excelente aporte. Aprovéchenlo"
+  },
+  {
+   "id": 322,
+   "type": "message",
+   "date": "2021-05-03T18:07:20",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Estimo haber comentado los drivers, compartidos respecto al ENSAYO ACADEMICO. SIN EMBARGO,les ruego me indiquen -por privado- si por inadvertencia, me faltó leer a alguien. Si ese fue el caso, desde ya mil disculpas y haganmelo saber.Gracias desde ya."
+  },
+  {
+   "id": 323,
+   "type": "message",
+   "date": "2021-05-03T18:13:00",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "reply_to_message_id": 319,
+   "text": "Muchas gracias Santi 👍🏻"
+  },
+  {
+   "id": 324,
+   "type": "message",
+   "date": "2021-05-03T21:15:43",
+   "from": "Santiago Riera",
+   "from_id": "user805229404",
+   "reply_to_message_id": 323,
+   "text": "De nada!"
+  },
+  {
+   "id": 325,
+   "type": "message",
+   "date": "2021-05-07T08:05:26",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Muy buen día EQUIPO TIF 1- Espero estén muy bien, aqui les comparto el ID para reunirnos a las 9:00 . Saludos y excelente jornada"
+  },
+  {
+   "id": 326,
+   "type": "message",
+   "date": "2021-05-07T08:05:37",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "ID de la reunión\n",
+    {
+     "type": "link",
+     "text": "meet.google.com/yeb-hcjp-rcf"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 327,
+   "type": "message",
+   "date": "2021-05-07T11:16:07",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Estimados, comprendo y valoro el esfuerzo de todos. Y los felicito.Los libero. Cerramos cuando todos hayan entregado. Los estaré contactando para ponerlos al día. Sé que han dado lo mejor de si."
+  },
+  {
+   "id": 328,
+   "type": "message",
+   "date": "2021-05-07T11:18:44",
+   "from": "Matias",
+   "from_id": "user867670922",
+   "text": "Perfecto profe. Buen finde..."
+  },
+  {
+   "id": 329,
+   "type": "message",
+   "date": "2021-05-07T11:22:11",
+   "from": "Daiana Ascurra",
+   "from_id": "user867417470",
+   "text": "Gracias buen fin de semana para todos!"
+  },
+  {
+   "id": 330,
+   "type": "message",
+   "date": "2021-05-07T11:23:47",
+   "from": "Matías Romani",
+   "from_id": "user652756401",
+   "text": "exitos y buen finde"
+  },
+  {
+   "id": 331,
+   "type": "message",
+   "date": "2021-05-07T11:24:56",
+   "from": "Matias Navarro",
+   "from_id": "user846689643",
+   "text": "Gracias profe, buen fin de semana"
+  },
+  {
+   "id": 332,
+   "type": "message",
+   "date": "2021-05-07T11:25:32",
+   "from": "Nicolás Olivares",
+   "from_id": "user774340913",
+   "text": "Buen finde para todos!"
+  },
+  {
+   "id": 333,
+   "type": "message",
+   "date": "2021-05-07T11:34:20",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Gracias profe, buen finde!"
+  },
+  {
+   "id": 334,
+   "type": "message",
+   "date": "2021-05-07T11:34:47",
+   "from": "Santiago Riera",
+   "from_id": "user805229404",
+   "text": "Buen finde para todos!"
+  },
+  {
+   "id": 335,
+   "type": "message",
+   "date": "2021-05-07T11:40:39",
+   "from": "Facu Luna",
+   "from_id": "user672006577",
+   "text": "Gracias profe, buen finde para todos!"
+  },
+  {
+   "id": 336,
+   "type": "message",
+   "date": "2021-05-08T10:46:33",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buen dia Equipo!"
+  },
+  {
+   "id": 337,
+   "type": "message",
+   "date": "2021-05-08T10:46:54",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Espero estén muy bien. Disculpen que los moleste un sábado pero deseo compartir con Uds este documento de trabajo que les permitirá ir avanzando a paso firme hacia el ENSAYO FINAL. Es una HERRAMIENTA DE TRABAJO y GUIA para saber: qué deben hacer; qué han hecho; qué les resta por hacer, en qué orden y cuánto tiempo les queda."
+  },
+  {
+   "id": 338,
+   "type": "message",
+   "date": "2021-05-08T10:47:30",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "Entonces, este link contiene un Excel llamado CRONOGRAMA DE PLANEACION- ENSAYO ACADÉMICO - TIF 1 – 2021.  Allí encontrarán dos páginas: 1. COM-IDEAS y 2. REDACCIÓN.  Con pasos especificados, tiempo límite y tiempo disponible (estimados).\n",
+    {
+     "type": "link",
+     "text": "https://drive.google.com/file/d/1L4ObhZABue0Ms6sN4nefKXSNsGtUvtds/view?usp=sharing"
+    },
+    "\nEsta guía está elaborada exclusivamente para Uds., es de propia formulación aunque inspirada en muchas lecturas que he realizado para poder aportarles ayuda y asistencia a este EQUIPO TIF 1. Son los ¡PASOS MINIMOS A REALIZAR PARA QUE EL PARAGUAS NO SE LES VUELE! A condición que Uds. respeten el proceso y las consignas."
+   ]
+  },
+  {
+   "id": 339,
+   "type": "message",
+   "date": "2021-05-08T10:47:58",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Hay en 1. COM-IDEAS, siete pasos que -sí o sí - deben ir haciendo. Por favor les ruego: NO SALTAR DE UN PASO AL OTRO SIN HABERLO TERMINADO. En especial, CUIDADO pues el PASO 4 de la primera página es ESENCIAL Y SI ESTÁ BIEN HECHO ESTARÁN SUJETANDO BIEN VUESTRO PARAGUAS POR EL MANGO!!!  \nPOR AHORA OLVÍDENSE de 2. REDACCIÓN. En función de las clases de consultas que he tenido y los drive compartidos y por lo que leo de Uds., hay estudiantes que ya estarían listos para “atacar” el PASO 4 y otros de quienes no he leído aún nada."
+  },
+  {
+   "id": 340,
+   "type": "message",
+   "date": "2021-05-08T10:48:08",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Hola profe! Genial Muchas gracias"
+  },
+  {
+   "id": 341,
+   "type": "message",
+   "date": "2021-05-08T10:48:15",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "NO vacilen en anotar todas las dudas y preguntas que les surjan. Los voy guiando.  Tengan esta herramienta como guía y vayan marcando en este doc. lo que ya hayan hecho y lo que les resta, fíjense pues una fecha para cada tarea. \nSé que pueden hacerlo y serán brillantes!! Confío en el excelente capital humano e intelectual que Uds. poseen. Vamos seamos “eficaces y eficientes” para alcanzar nuestros objetivos."
+  },
+  {
+   "id": 342,
+   "type": "message",
+   "date": "2021-05-08T10:48:21",
+   "from": "Nicolás Olivares",
+   "from_id": "user774340913",
+   "text": "Genial profe!"
+  },
+  {
+   "id": 343,
+   "type": "message",
+   "date": "2021-05-08T10:48:28",
+   "from": "Nicolás Olivares",
+   "from_id": "user774340913",
+   "text": "Gracias!"
+  },
+  {
+   "id": 344,
+   "type": "message",
+   "date": "2021-05-08T10:48:44",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "A Uds!!! a un telegram de distancia."
+  },
+  {
+   "id": 345,
+   "type": "message",
+   "date": "2021-05-08T10:49:34",
+   "from": "seba F",
+   "from_id": "user1005951679",
+   "text": "Muchas gracias profe!!"
+  },
+  {
+   "id": 346,
+   "type": "message",
+   "date": "2021-05-08T10:51:47",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Un pacto entre nosotors: yo me comprometo a ir corrigiendo vuestros parciales y UDS vayan avanzando con los primeros pasos hasta llegar MINIMO al PASO 4 de la primera pafrte ( 1. COM-IDEAS. )"
+  },
+  {
+   "id": 347,
+   "type": "message",
+   "date": "2021-05-08T10:54:04",
+   "from": "Matias Navarro",
+   "from_id": "user846689643",
+   "text": "Muchas gracias profe!"
+  },
+  {
+   "id": 348,
+   "type": "message",
+   "date": "2021-05-08T10:54:32",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "Muchas gracias Profe!!!! Que tengan gran finde"
+  },
+  {
+   "id": 349,
+   "type": "message",
+   "date": "2021-05-08T10:55:23",
+   "from": "Santiago Riera",
+   "from_id": "user805229404",
+   "text": "Gracias profe!"
+  },
+  {
+   "id": 350,
+   "type": "message",
+   "date": "2021-05-08T12:48:17",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Gracias profe!"
+  },
+  {
+   "id": 351,
+   "type": "message",
+   "date": "2021-05-09T12:51:36",
+   "edited": "2021-05-09T12:57:13",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "text": [
+    "Buen dia! Les comparto esto porque tiktok es servicio jajaj\n\n",
+    {
+     "type": "link",
+     "text": "https://www.tiktok.com/@thewritingandtenurecoach/video/6959295134420782342"
+    }
+   ]
+  },
+  {
+   "id": 352,
+   "type": "message",
+   "date": "2021-05-09T13:36:34",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "For sure!! IT's a good tip👌👌👌"
+  },
+  {
+   "id": 353,
+   "type": "message",
+   "date": "2021-05-09T16:26:43",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.facebook.com/1466570043558305/posts/3006136662934961/"
+    },
+    "   Estimados Estudiantes, me uno de corazón, con gran dolor, a tan lamentable pérdida. Tuve el privilegio de conocer a Ricardo Vergara durante mi gestión como Secretaria General en la UM San Rafael: un GRAN SEÑOR, con una Hombria de Bien que solo las almas nobles pueden demostrar. Mis condolencias a toda la Comunidad sanrafaelina. QEPD."
+   ]
+  },
+  {
+   "id": 354,
+   "type": "message",
+   "date": "2021-05-09T20:35:45",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "reply_to_message_id": 353,
+   "text": "Una excelente persona. Tuve el agrado de conocerlo y entablar diálogo. QEPD. Gran pérdida para nuestra sociedad."
+  },
+  {
+   "id": 355,
+   "type": "service",
+   "date": "2021-05-10T17:07:29",
+   "actor": "Giancarlo Galvarini",
+   "actor_id": "user1009916191",
+   "action": "remove_members",
+   "members": [
+    "Giancarlo Galvarini"
+   ],
+   "text": ""
+  },
+  {
+   "id": 356,
+   "type": "message",
+   "date": "2021-05-12T12:47:27",
+   "from": "Nicolas Contreras",
+   "from_id": "user1351462231",
+   "text": "Buenos días! Todos estarán al tanto del nuevo mandala en san rafael. Está bueno para analizar si se trata de plagio o no"
+  },
+  {
+   "id": 357,
+   "type": "message",
+   "date": "2021-05-12T12:47:51",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "reply_to_message_id": 356,
+   "text": "Lo es."
+  },
+  {
+   "id": 358,
+   "type": "message",
+   "date": "2021-05-12T12:48:22",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Buen dia.. si eso justo estaba viendo recien que por lo visto es plagio"
+  },
+  {
+   "id": 359,
+   "type": "message",
+   "date": "2021-05-12T12:48:54",
+   "from": "Nicolas Contreras",
+   "from_id": "user1351462231",
+   "text": "Por lo que leí también va una placa con el nombre del autor"
+  },
+  {
+   "id": 360,
+   "type": "message",
+   "date": "2021-05-12T12:49:37",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Al menos no he leído que quieran nombrar el qUe realmente lo hizo primero"
+  },
+  {
+   "id": 361,
+   "type": "message",
+   "date": "2021-05-12T12:50:19",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "text": "Pasen algún link así lo leemos"
+  },
+  {
+   "id": 362,
+   "type": "message",
+   "date": "2021-05-12T12:52:02",
+   "from": "Nicolas Contreras",
+   "from_id": "user1351462231",
+   "text": "*# ALERTA SOBRE EL MANDALA DEL PASEO RAWSON*\n(12 hs)\n\nEn virtud de las repercusiones que generó *la instalación de un mandala en movimiento en el Paseo Rawson,* informamos que se trata de una *réplica de una obra similar* situada en el exterior del país, y que se adaptó a las características de nuestro departamento, puntualmente en la energía para darle movimiento.\nEl objetivo fue generar *un nuevo atractivo para embellecer* un espacio público visitado por muchos sanrafaelinos y turistas. Eso aplica para otras obras ejecutadas en diferentes puntos del departamento.\nPor último informamos que en el lugar donde se instaló el mandala, *se añadirá una placa que detallará el origen de este tipo de estructura*, y se mencionará a Anthony Howe como su creador."
+  },
+  {
+   "id": 363,
+   "type": "message",
+   "date": "2021-05-12T12:53:25",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "text": "Haa pensé que hablaban de las mándalas ponzi 😂😂😂😂"
+  },
+  {
+   "id": 364,
+   "type": "message",
+   "date": "2021-05-12T12:53:33",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Creo q con el debate q se armo en la redes sociales creo q surgió la idea de nombrar q el escultor"
+  },
+  {
+   "id": 365,
+   "type": "message",
+   "date": "2021-05-12T12:53:44",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Si lo nombran no seria plagio"
+  },
+  {
+   "id": 366,
+   "type": "message",
+   "date": "2021-05-12T12:54:11",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "reply_to_message_id": 359,
+   "text": "Ya se inauguró la obra. Sin placa ni citación alguna... es plagio de acá a la luna."
+  },
+  {
+   "id": 367,
+   "type": "message",
+   "date": "2021-05-12T12:54:24",
+   "from": "Nicolas Contreras",
+   "from_id": "user1351462231",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.voxpopuli.net.ar/escandalo-un-artista-de-estados-unidos-denuncia-que-le-copiaron-el-mandala-gigante-que-instalaron-en-san-rafael/"
+    }
+   ]
+  },
+  {
+   "id": 368,
+   "type": "message",
+   "date": "2021-05-12T12:54:26",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Pero creo que cuando lo realizaron se llevo todos los laureles el que lo hizo en san Rafael"
+  },
+  {
+   "id": 369,
+   "type": "message",
+   "date": "2021-05-12T12:55:56",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "Si lo inauguraste públicamente y no lo citaste, ya es plagio. Hay una preexistencia de inauguración y utilización de la obra que tiene copyright en Washington, Estados Unidos a nombre de Howe."
+  },
+  {
+   "id": 370,
+   "type": "message",
+   "date": "2021-05-12T12:56:17",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "🤦🏻‍♂️"
+  },
+  {
+   "id": 371,
+   "type": "message",
+   "date": "2021-05-12T13:00:30",
+   "from": "Nicolas Contreras",
+   "from_id": "user1351462231",
+   "text": "no se hasta que punto estaba inaugurado"
+  },
+  {
+   "id": 372,
+   "type": "message",
+   "date": "2021-05-12T13:00:34",
+   "from": "Nicolas Contreras",
+   "from_id": "user1351462231",
+   "text": "o solo instalado"
+  },
+  {
+   "id": 373,
+   "type": "message",
+   "date": "2021-05-12T13:00:43",
+   "from": "Nicolas Contreras",
+   "from_id": "user1351462231",
+   "text": "por la emocion de mostrarlo"
+  },
+  {
+   "id": 374,
+   "type": "message",
+   "date": "2021-05-12T13:00:53",
+   "from": "Nicolas Contreras",
+   "from_id": "user1351462231",
+   "text": "pero me parecio bueno para hacer el analisis"
+  },
+  {
+   "id": 375,
+   "type": "message",
+   "date": "2021-05-12T13:02:24",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1080,
+   "height": 943,
+   "text": "Para reír un poco ante tanta tensión. Jaja"
+  },
+  {
+   "id": 376,
+   "type": "message",
+   "date": "2021-05-12T13:02:43",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "Éstos de sanrafaelindio son unos loquitos"
+  },
+  {
+   "id": 377,
+   "type": "message",
+   "date": "2021-05-12T13:04:13",
+   "from": "Nicolas Contreras",
+   "from_id": "user1351462231",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.memo.com.ar/runrunes/acusan-a-san-rafael-de-plagiar-una-obra-de-un-artista-de-estados-unidos/"
+    }
+   ]
+  },
+  {
+   "id": 378,
+   "type": "message",
+   "date": "2021-05-12T14:40:20",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.memo.com.ar/runrunes/acusan-a-san-rafael-de-plagiar-una-obra-de-un-artista-de-estados-unidos/"
+    }
+   ]
+  },
+  {
+   "id": 379,
+   "type": "message",
+   "date": "2021-05-12T14:41:32",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Esto prueba que nuestros contenidos estudiados en esta Catedra no están tan desactualizados... ni lejanos de una realidad cercana👌"
+  },
+  {
+   "id": 380,
+   "type": "message",
+   "date": "2021-05-12T14:42:21",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Debate abierto!!!"
+  },
+  {
+   "id": 381,
+   "type": "message",
+   "date": "2021-05-12T22:46:10",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "hola profe, le queria preguntar por donde le puedo compartir el desarrollo de \"Com-Ideas\" que estuve desarrollando"
+  },
+  {
+   "id": 382,
+   "type": "message",
+   "date": "2021-05-13T13:16:35",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 857,
+   "height": 1280,
+   "text": "Foto de Maria Marta"
+  },
+  {
+   "id": 383,
+   "type": "message",
+   "date": "2021-05-13T13:17:17",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Este mensaje también es para Uds. Felicidades y felicitaciones 👍👍👍"
+  },
+  {
+   "id": 384,
+   "type": "message",
+   "date": "2021-05-13T13:20:17",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "reply_to_message_id": 381,
+   "text": "Pablo buen día, te ruego al igual que a todos tus compañeros 1. Crear una carpeta en drive TIF 1 y dentro coloquen primero el doc word que vayan escribiendo las  ideas , 2. Este excel y 3. Se los diré mañana. Y luego, desde luego compartes conmigo esa carpeta. A mi correo con permiso de EDICION por favor.Desde ya gracias"
+  },
+  {
+   "id": 385,
+   "type": "message",
+   "date": "2021-05-13T13:54:29",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Necesitaria tu correo  para agregarte entonces"
+  },
+  {
+   "id": 386,
+   "type": "message",
+   "date": "2021-05-13T13:56:36",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "Sin problema Pablo  ya lo tienen pero te lo recuerdo: ",
+    {
+     "type": "email",
+     "text": "maria.arrieta@um.edu.ar"
+    },
+    "   Por favor la carpeta debe llamarse: APELLIDO + NOMBRE del estudiante + TIF 1"
+   ]
+  },
+  {
+   "id": 387,
+   "type": "message",
+   "date": "2021-05-13T14:44:08",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Ya le compartí la carpeta"
+  },
+  {
+   "id": 388,
+   "type": "message",
+   "date": "2021-05-13T14:44:35",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Y si también se podria fijar si lo que he puesto esta bien"
+  },
+  {
+   "id": 389,
+   "type": "message",
+   "date": "2021-05-13T14:56:05",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "reply_to_message_id": 387,
+   "text": "Pablo lo personal de cada estudiante lo vemos por privado,  por favor así no distraemos al Grupo."
+  },
+  {
+   "id": 390,
+   "type": "message",
+   "date": "2021-05-14T06:03:37",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "Estimadas/os buen día, les confío el ID meet para nuestra 8° clase de hoy viernes 14/5/2021. Los espero puntuales hay mucho para avanzar. Gracias ID de la reunión\n",
+    {
+     "type": "link",
+     "text": "meet.google.com/aqa-ptnr-szz"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 391,
+   "type": "message",
+   "date": "2021-05-14T12:01:39",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 274,
+   "height": 121,
+   "text": "en un comentario en google docs deberia enviar un mail"
+  },
+  {
+   "id": 392,
+   "type": "message",
+   "date": "2021-05-14T12:02:14",
+   "from": "Matías Romani",
+   "from_id": "user652756401",
+   "text": "Pero hay que etiquetar cada vez que hagamos un cambio?"
+  },
+  {
+   "id": 393,
+   "type": "message",
+   "date": "2021-05-14T12:02:25",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "text": "eso estamos viendo"
+  },
+  {
+   "id": 394,
+   "type": "message",
+   "date": "2021-05-14T12:02:37",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Aparentemente"
+  },
+  {
+   "id": 395,
+   "type": "message",
+   "date": "2021-05-14T12:02:45",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "parece que si"
+  },
+  {
+   "id": 396,
+   "type": "message",
+   "date": "2021-05-14T12:03:15",
+   "from": "Matías Romani",
+   "from_id": "user652756401",
+   "text": "Por que yo hice lo del panel de actividad pero parece que solo le avisa ahí, y hay que hacerlo cada vez que queremos que le avise"
+  },
+  {
+   "id": 397,
+   "type": "message",
+   "date": "2021-05-14T12:03:22",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "En realidad mas q cambio sería cuando ya quieras que ella acceda a leerlo"
+  },
+  {
+   "id": 398,
+   "type": "message",
+   "date": "2021-05-14T12:04:21",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Pero si siempre vamos a tener q hacer eso para que le avise a su mail"
+  },
+  {
+   "id": 399,
+   "type": "message",
+   "date": "2021-05-14T12:04:37",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "reply_to_message_id": 396,
+   "text": "pienso igual, una vez que editaste el documento, te vas ahi y mandas el mail de notificacion"
+  },
+  {
+   "id": 400,
+   "type": "message",
+   "date": "2021-05-14T14:13:50",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": "Todo lo de hoy GRABACION Y DOCUMENTOS ya están subidos en nuestra Catedra virtual.  Gracias por vuestra participación"
+  },
+  {
+   "id": 401,
+   "type": "message",
+   "date": "2021-05-14T14:35:22",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "👍🏻👍🏻"
+  },
+  {
+   "id": 402,
+   "type": "message",
+   "date": "2021-05-14T21:26:15",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Disculpen que les moleste recién voy terminando. POR FAVOR no se olviden de subir el power de la actividad del ENCUENTRO a vuestra carpeta drive🙏🙏🙏🙏🙏🙏 subanlo A DRIVE,en PTT , no en PDF. CON apellido / nombre / temática elegida. Gracias"
+  },
+  {
+   "id": 403,
+   "type": "message",
+   "date": "2021-05-14T21:32:49",
+   "from": "Tomas Gañan",
+   "from_id": "user864662278",
+   "text": "MM es el subimos a la cátedra hace unos días ?"
+  },
+  {
+   "id": 404,
+   "type": "message",
+   "date": "2021-05-14T21:33:25",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "text": "Si pero el power, no el pdf"
+  },
+  {
+   "id": 405,
+   "type": "message",
+   "date": "2021-05-14T21:38:37",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "reply_to_message_id": 403,
+   "text": "Exacto el mismo porfi pero en PTT por si veo corregir dentro 👌👌👌✍✍✍"
+  },
+  {
+   "id": 406,
+   "type": "message",
+   "date": "2021-05-14T21:38:48",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Denme permiso de EDICION"
+  },
+  {
+   "id": 407,
+   "type": "message",
+   "date": "2021-05-16T11:34:21",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buen día para quienes les interese el tema 👇"
+  },
+  {
+   "id": 408,
+   "type": "message",
+   "date": "2021-05-16T11:34:29",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://twitter.com/GastonBielli/status/1393658681166815238?s=08"
+    }
+   ]
+  },
+  {
+   "id": 409,
+   "type": "message",
+   "date": "2021-05-16T11:35:47",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Disculpen estoy out por corte de luz programado en una parte de la city Mza. Retomo.por la tarde"
+  },
+  {
+   "id": 410,
+   "type": "message",
+   "date": "2021-05-20T11:00:18",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Equipo TIF 1, por lo que resta de  la mañana estoy con agenda cerrada. Los leeré a partir de las 17. Disculpen. De igual manera, estaré disponible mañana de 9 a 12 para vuestras consultas. Luego les envío el ID DEL MEET."
+  },
+  {
+   "id": 411,
+   "type": "message",
+   "date": "2021-05-20T11:00:36",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Aprovechen mañana para consultar por favor."
+  },
+  {
+   "id": 412,
+   "type": "message",
+   "date": "2021-05-20T11:03:05",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Bueno profe genial! Gracias"
+  },
+  {
+   "id": 413,
+   "type": "message",
+   "date": "2021-05-20T11:26:30",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Genial profe, gracias!"
+  },
+  {
+   "id": 414,
+   "type": "message",
+   "date": "2021-05-20T11:40:35",
+   "from": "Santiago Riera",
+   "from_id": "user805229404",
+   "text": "Genial profe. Gracias!"
+  },
+  {
+   "id": 415,
+   "type": "service",
+   "date": "2021-05-20T12:15:34",
+   "actor": "Lautaro G",
+   "actor_id": "user858971037",
+   "action": "invite_members",
+   "members": [
+    "Giancarlo Galvarini"
+   ],
+   "text": ""
+  },
+  {
+   "id": 416,
+   "type": "message",
+   "date": "2021-05-20T16:18:04",
+   "from": "Matias",
+   "from_id": "user867670922",
+   "text": "muchas gracias profe"
+  },
+  {
+   "id": 417,
+   "type": "message",
+   "date": "2021-05-20T16:35:36",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "text": "Perfecto profe, muchas gracias!"
+  },
+  {
+   "id": 418,
+   "type": "message",
+   "date": "2021-05-20T17:07:13",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 96,
+   "text": ""
+  },
+  {
+   "id": 419,
+   "type": "message",
+   "date": "2021-05-20T17:09:22",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Genial profe"
+  },
+  {
+   "id": 420,
+   "type": "message",
+   "date": "2021-05-20T17:43:18",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Ok profe 👍🏻"
+  },
+  {
+   "id": 421,
+   "type": "message",
+   "date": "2021-05-20T18:06:16",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "text": "Buenísimo profe!"
+  },
+  {
+   "id": 422,
+   "type": "message",
+   "date": "2021-05-20T18:58:44",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Para mañana, por favor el link del meet"
+  },
+  {
+   "id": 423,
+   "type": "message",
+   "date": "2021-05-20T18:58:52",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "ID de la reunión\n",
+    {
+     "type": "link",
+     "text": "meet.google.com/yyp-nrsd-eqq"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 424,
+   "type": "message",
+   "date": "2021-05-21T12:36:57",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Estaba profe"
+  },
+  {
+   "id": 425,
+   "type": "message",
+   "date": "2021-05-21T12:37:21",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Justo le iba a pedir si podia revisar los objetivos"
+  },
+  {
+   "id": 426,
+   "type": "message",
+   "date": "2021-05-21T12:37:39",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": [
+    {
+     "type": "mention_name",
+     "text": "María Marta",
+     "user_id": 1691333349
+    },
+    ""
+   ]
+  },
+  {
+   "id": 427,
+   "type": "message",
+   "date": "2021-05-23T10:58:34",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buen día Equipo TIF 1. Sé que es domingo, sé que estamos todas / os algo agotados pero ENERGIA no falta !!! Aunque nos parezca que no llegamos y que la pendiente es muy dura…. ¡Es siempre la sensación que se experimenta y el esfuerzo necesario, antes de alcanzar la CUMBRE !!! Resumiendo: tenemos 14 estudiantes con matrices listas para ser subidas y 9 pendientes."
+  },
+  {
+   "id": 428,
+   "type": "message",
+   "date": "2021-05-23T10:59:15",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Sólo Los 14 estudiantes que PUEDEN SUBIR LAS MATRICES SON (en el caso en que aún no lo hayan hecho), por orden alfabético son:"
+  },
+  {
+   "id": 429,
+   "type": "message",
+   "date": "2021-05-23T10:59:33",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 360,
+   "height": 376,
+   "text": ""
+  },
+  {
+   "id": 430,
+   "type": "message",
+   "date": "2021-05-23T10:59:52",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "Indicaciones para subir la MATRIZ:    Al ingresar a este link encontrarán 6 carpetas y cada carpeta tiene una TEMÁTICA  distinta. POR FAVOR: Uds. deben subir vuestro trabajo a la TEMÁTICA PROPIA de vuestro ensayo. \nLink de entrega :  \n",
+    {
+     "type": "link",
+     "text": "https://drive.google.com/drive/folders/1Uz-EQRlDQ3rFQy6FcQ9KcIM2qoWWUmWX?usp=sharing"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 431,
+   "type": "message",
+   "date": "2021-05-23T11:00:23",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "MATRICES PENDIENTES POR PARTE DE LOS ESTUDIANTES (en lo que respecta a mi rol, están ya comentadas, aguardo que Uds. avancen) ACLARACIÓN: todo planteamiento personal por telegram privado, por favor .  Estos estudiantes aún NO SUBAN LAS MATRICES para ser evaluadas por los TUTORES EXPERTOS, POR F AVOR."
+  },
+  {
+   "id": 432,
+   "type": "message",
+   "date": "2021-05-23T11:00:52",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 360,
+   "height": 301,
+   "text": ""
+  },
+  {
+   "id": 433,
+   "type": "message",
+   "date": "2021-05-23T11:01:41",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Para TODOS LOS ESTUDIANTES TIF 1 – SAN RAFAEL: : una vez que subieron definitivamente la matriz al link drive oficial de PROFES Y TUTORES, ya no pueden tocar nada más, ni de vuestro trabajo, ni el de ningún otro compañero. Compromiso ético y seriedad profesional. Desde ya muchas gracias a todo mi hermoso EQUIPO TIF"
+  },
+  {
+   "id": 434,
+   "type": "message",
+   "date": "2021-05-27T19:32:11",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buenas noches Equipo TIF 1, aquí les comparto el ID del meet para mañana a las 9:00. Recuerden que nos vemos mañana  y pasado mañana, sábado 29/5 ( a las 9:00h) está el 2° Encuentro con los tutores-expertos y recibirán el feed back de vuestras respectivas matrices. Hasta mañana si Dios así lo quiere. 👍"
+  },
+  {
+   "id": 435,
+   "type": "message",
+   "date": "2021-05-27T19:32:24",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "ID de la reunión\n",
+    {
+     "type": "link",
+     "text": "meet.google.com/otb-uznz-vxk"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 436,
+   "type": "message",
+   "date": "2021-05-27T19:40:55",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "text": "Perfecto profe, gracias! Nos vemos mañana."
+  },
+  {
+   "id": 437,
+   "type": "message",
+   "date": "2021-05-27T20:09:34",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "Gracias profe!!!"
+  },
+  {
+   "id": 438,
+   "type": "message",
+   "date": "2021-05-27T20:11:24",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "👍🏻👍🏻"
+  },
+  {
+   "id": 439,
+   "type": "message",
+   "date": "2021-05-28T19:55:53",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Disculpen la hora pero recién voy terminando de dar clases... aquí va link para mañana. Los esperamos ⏰⏰ a las 9:00 h"
+  },
+  {
+   "id": 440,
+   "type": "message",
+   "date": "2021-05-28T19:56:17",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "Unirse con Google Meet  ",
+    {
+     "type": "link",
+     "text": "meet.google.com/aau-wzzs-wfp"
+    }
+   ]
+  },
+  {
+   "id": 441,
+   "type": "message",
+   "date": "2021-05-28T19:56:44",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Gracias profe"
+  },
+  {
+   "id": 442,
+   "type": "message",
+   "date": "2021-05-29T11:16:23",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "text": "Hablando de plagio"
+  },
+  {
+   "id": 443,
+   "type": "message",
+   "date": "2021-05-29T11:16:23",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://www.losandes.com.ar/politica/la-primera-dama-fabiola-yanez-copio-y-pego-de-wikipedia-20-paginas-en-su-tesis-universitaria/"
+    }
+   ]
+  },
+  {
+   "id": 444,
+   "type": "message",
+   "date": "2021-05-29T11:46:16",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "WOWWWWW!! Felicitaciones  por vuestra participación 👍👍👍🙏🙏🙏🙏"
+  },
+  {
+   "id": 445,
+   "type": "message",
+   "date": "2021-05-29T11:52:09",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "text": "Gracias profe por toda la organización de toda la reunion! Me logré orientar bastante en el ensayo. Buen finde!"
+  },
+  {
+   "id": 446,
+   "type": "message",
+   "date": "2021-05-29T12:06:10",
+   "from": "Nicolás Olivares",
+   "from_id": "user774340913",
+   "reply_to_message_id": 444,
+   "text": "Gracias a usted profe! Buen finde para todos!"
+  },
+  {
+   "id": 447,
+   "type": "message",
+   "date": "2021-05-29T12:08:12",
+   "from": "Ramiro Giand.",
+   "from_id": "user261745196",
+   "text": "Gracias a ustedes profe!!!"
+  },
+  {
+   "id": 448,
+   "type": "message",
+   "date": "2021-05-29T12:09:44",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Muchas gracias profe!"
+  },
+  {
+   "id": 449,
+   "type": "message",
+   "date": "2021-05-31T11:26:28",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Hola EQUIPAZO!!! espero estén  bien!!! Solo un EMPUJONCITO para  que empiecen a ESCRIBIR✍✍✍✍✍ y quien haya comenzado A SEGUIR!!!! De este lado a FULL pero... no dejen de preguntar si necesitan algo... NO SE DETENGAN PORFI🙏🙏🙏🙏🙏 Han hecho lo peor!!!! Ahora es solo dejar deslizar las ideas en el papel.respetando el orden de reflexión ✍✍✍"
+  },
+  {
+   "id": 450,
+   "type": "message",
+   "date": "2021-06-01T17:06:50",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Hola Equipo acabo de leer a cuatro compañeros. Son las 17:05 y si alguien desea que lo lea tengo 45 minutos antes de entrar en una reunión. Estoy a vuestra disposición si lo desean. Solo me contactan por privado y los leo."
+  },
+  {
+   "id": 451,
+   "type": "message",
+   "date": "2021-06-02T11:07:23",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buen día TIF 1. Les molesto solo 2 segundos. Estimo, que entre ayer y hoy hasta las 7 de la mañana, he leído y comentado los avances de quienes me lo.solicitaran. No obstante, si por inadvertencia, algún trabajo se me ha pasado, primero pido disculpas y luego, les ruego que me lo hagan saber por privado. Gracias y buena jornada."
+  },
+  {
+   "id": 452,
+   "type": "message",
+   "date": "2021-06-04T08:02:05",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "Buen día Equipo TIF 1. Aquí les dejo el link para vernos enseguida. Gracias ID de la reunión\n",
+    {
+     "type": "link",
+     "text": "meet.google.com/ykd-ojns-dge"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 453,
+   "type": "message",
+   "date": "2021-06-07T14:47:26",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Estimados, mil disculpas. Siento cierta ansiedad en el aire... Y LOS COMPRENDO... personalmente estoy SIN COMPU hasta el miércoles pues  esta en terapia intensiva. Por favor, GUARDEN LA CALMA, LA MOTIVACION Y NO CESEN DE ESCRIBIR. Los estaré leyendo muy pronto. MÉTANSE DENTRO DE VUESTRO TEMA Y AUNQUE SEA UNAS LINEAS... NO DEJEN DE ESCRIBIR!!!! EL prof Diego Córdoba los contactará en breve para un meet. Mil disculpas. CONFÍEN EN VUESTRAS CAPACIDADES!!!"
+  },
+  {
+   "id": 454,
+   "type": "message",
+   "date": "2021-06-07T14:48:19",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "reply_to_message_id": 453,
+   "text": "Gracias, profe! En eso estoy!!"
+  },
+  {
+   "id": 455,
+   "type": "message",
+   "date": "2021-06-07T14:48:34",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "text": "🙌🏼"
+  },
+  {
+   "id": 456,
+   "type": "message",
+   "date": "2021-06-07T14:48:34",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "gracias profe"
+  },
+  {
+   "id": 457,
+   "type": "message",
+   "date": "2021-06-08T13:08:56",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Holita ... Espero estén muy bien . Justo este artículo para Uds."
+  },
+  {
+   "id": 458,
+   "type": "message",
+   "date": "2021-06-08T13:09:13",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://observatorio.tec.mx/edu-news/recomendaciones-para-escribir-un-articulo-academico"
+    }
+   ]
+  },
+  {
+   "id": 459,
+   "type": "message",
+   "date": "2021-06-08T13:10:40",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Todo ha sido dicho y abordado en clases pero... aqui lo dice el TECNOLOGICO DE MONTERREY !!!!!!!😉"
+  },
+  {
+   "id": 460,
+   "type": "message",
+   "date": "2021-06-08T13:11:06",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "A seguir avanzando."
+  },
+  {
+   "id": 461,
+   "type": "message",
+   "date": "2021-06-08T17:19:31",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "reply_to_message_id": 458,
+   "text": "Muchas gracias!!"
+  },
+  {
+   "id": 462,
+   "type": "message",
+   "date": "2021-06-08T17:41:57",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Gracias profe"
+  },
+  {
+   "id": 463,
+   "type": "message",
+   "date": "2021-06-08T18:52:17",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Disculpen, alguien me solicitó anoche un meet y no logro encontrar ese telegram ... 🙏Quien me lo haya solicitado por favor me puede volver a contactar así nos organizamos. Gracias"
+  },
+  {
+   "id": 464,
+   "type": "message",
+   "date": "2021-06-10T19:28:44",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 888,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 465,
+   "type": "message",
+   "date": "2021-06-10T19:29:19",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Mil disculpas NO LOS HE OLVIDADO!!! MAÑANA Y ESTE FIN DE DOY 100% PARA UDS!!!! PROMETIDO🙏🙏🙏🙏🙏🙏"
+  },
+  {
+   "id": 466,
+   "type": "message",
+   "date": "2021-06-10T19:30:32",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Me encanta que estén activos y motivados!!! Sigan ✍✍✍✍SORPRENDANME Y lo más importante DISFRUTEN ✍✍✍✍✍. Se SORPRENDERAN UDS MISMOS DE LO QUE SON CAPACES🙏🙏🙏"
+  },
+  {
+   "id": 467,
+   "type": "message",
+   "date": "2021-06-10T19:31:10",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Entonces va a ser imposible entregarlo para mañana 😅"
+  },
+  {
+   "id": 468,
+   "type": "message",
+   "date": "2021-06-10T19:31:23",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Igual no hay drama profe"
+  },
+  {
+   "id": 469,
+   "type": "message",
+   "date": "2021-06-10T19:31:39",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Les regalo un FUERTE ABRAZO!!! A falta de tiempo🙏🙏"
+  },
+  {
+   "id": 470,
+   "type": "message",
+   "date": "2021-06-10T19:31:40",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "No hay problema profe yo llego con el escrito para mañana pero que este bien es mi miedo"
+  },
+  {
+   "id": 471,
+   "type": "message",
+   "date": "2021-06-10T19:31:49",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "como podemos resolverlo?"
+  },
+  {
+   "id": 472,
+   "type": "message",
+   "date": "2021-06-10T19:32:00",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Estoy igual que matias"
+  },
+  {
+   "id": 473,
+   "type": "message",
+   "date": "2021-06-10T19:32:32",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Para pasado mañana??? 😢😢😢NEGOCIAREMOS !! SOY BUENA EN ESO"
+  },
+  {
+   "id": 474,
+   "type": "message",
+   "date": "2021-06-10T19:32:44",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": "Yo tengo un simple problema... Cuál es el límite de páginas? Porque creo que estoy por encima 😅"
+  },
+  {
+   "id": 475,
+   "type": "message",
+   "date": "2021-06-10T19:32:45",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Confien en mi.como yo en Uds"
+  },
+  {
+   "id": 476,
+   "type": "message",
+   "date": "2021-06-10T19:32:52",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "No hay problema profe! Le estoy metiendo igual a mi escrito y sacare las dudas cuando usted pueda 😬"
+  },
+  {
+   "id": 477,
+   "type": "message",
+   "date": "2021-06-10T19:33:12",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Y yo tengo lo contrario q julian jaja"
+  },
+  {
+   "id": 478,
+   "type": "message",
+   "date": "2021-06-10T19:33:19",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "reply_to_message_id": 474,
+   "text": "Julián si.a alguien le falta...tu podrás darle😜"
+  },
+  {
+   "id": 479,
+   "type": "message",
+   "date": "2021-06-10T19:33:21",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Creo q estoy entre las 6 y 7 hojas máximo"
+  },
+  {
+   "id": 480,
+   "type": "message",
+   "date": "2021-06-10T19:33:29",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "reply_to_message_id": 478,
+   "text": "Genial Jajajaja"
+  },
+  {
+   "id": 481,
+   "type": "message",
+   "date": "2021-06-10T19:33:41",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Jajaja pásame entonces Juli 😂"
+  },
+  {
+   "id": 482,
+   "type": "message",
+   "date": "2021-06-10T19:33:46",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Mañana les presento el formato"
+  },
+  {
+   "id": 483,
+   "type": "message",
+   "date": "2021-06-10T19:33:56",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Mínimo 8 máximo 10"
+  },
+  {
+   "id": 484,
+   "type": "message",
+   "date": "2021-06-10T19:33:57",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Yo tengo 14 paginas, aunque todo puede variar"
+  },
+  {
+   "id": 485,
+   "type": "message",
+   "date": "2021-06-10T19:34:10",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "reply_to_message_id": 484,
+   "text": "Jajaja"
+  },
+  {
+   "id": 486,
+   "type": "message",
+   "date": "2021-06-10T19:34:30",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Tamaño 12 ...."
+  },
+  {
+   "id": 487,
+   "type": "message",
+   "date": "2021-06-10T19:34:49",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Si escriben más a partir de la 14 NO CORREGIMOS"
+  },
+  {
+   "id": 488,
+   "type": "message",
+   "date": "2021-06-10T19:35:18",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Los quiero mucho!!! Me han alegrado una larga jornada."
+  },
+  {
+   "id": 489,
+   "type": "message",
+   "date": "2021-06-10T19:35:40",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Prometido. Mañana y finde con Uds."
+  },
+  {
+   "id": 490,
+   "type": "message",
+   "date": "2021-06-10T19:36:01",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": "Suerte en la larga jornada 😅"
+  },
+  {
+   "id": 491,
+   "type": "message",
+   "date": "2021-06-10T19:39:29",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Se me fue a 14 paginas por el formato de la letra, interlineado, por las bibliografías y las referencias"
+  },
+  {
+   "id": 492,
+   "type": "message",
+   "date": "2021-06-10T19:39:59",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Se desperdicia mucho espacio por los margenes"
+  },
+  {
+   "id": 493,
+   "type": "message",
+   "date": "2021-06-10T19:40:18",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Por causa de las normas APA"
+  },
+  {
+   "id": 494,
+   "type": "message",
+   "date": "2021-06-10T19:56:48",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Profe una sola duda tengo de la cantidad de hojas jaja.. 8 en total con portada indice y todo? O son 8 páginas escritas solo de desarrollo"
+  },
+  {
+   "id": 495,
+   "type": "message",
+   "date": "2021-06-11T07:10:29",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Aqui les dejo para el desayuno ☕☕☕☕.....🧉🧉🧉🧉🧉 y el link del meet . Gracias y hasta enseguida."
+  },
+  {
+   "id": 496,
+   "type": "message",
+   "date": "2021-06-11T07:10:36",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "ID de la reunión\n",
+    {
+     "type": "link",
+     "text": "meet.google.com/agj-wecu-otz"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 497,
+   "type": "service",
+   "date": "2021-06-11T09:07:44",
+   "actor": "Matias Ahumada",
+   "actor_id": "user775053839",
+   "action": "remove_members",
+   "members": [
+    "Matias Ahumada"
+   ],
+   "text": ""
+  },
+  {
+   "id": 498,
+   "type": "message",
+   "date": "2021-06-13T12:32:35",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://twitter.com/CNNEE/status/1403791729107652610?s=09"
+    }
+   ]
+  },
+  {
+   "id": 499,
+   "type": "message",
+   "date": "2021-06-13T12:33:11",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Hola!!! Para quienes trabajan con el tema de datos y IA"
+  },
+  {
+   "id": 500,
+   "type": "message",
+   "date": "2021-06-13T12:33:35",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Excelente domingo para Uds."
+  },
+  {
+   "id": 501,
+   "type": "message",
+   "date": "2021-06-13T12:34:44",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://twitter.com/mdzol/status/1403791713123057671?s=09"
+    }
+   ]
+  },
+  {
+   "id": 502,
+   "type": "message",
+   "date": "2021-06-13T12:35:17",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Otro tema de interés para EQUIPO TIF ✍✍"
+  },
+  {
+   "id": 503,
+   "type": "message",
+   "date": "2021-06-14T16:24:15",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buenas tardes. Entro a las 16:30 en meet con profes TIF. Luego vuelvo con uds. Prometido."
+  },
+  {
+   "id": 504,
+   "type": "message",
+   "date": "2021-06-14T20:01:45",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Estimados aqui va formato de presentación final del ENSAYO"
+  },
+  {
+   "id": 505,
+   "type": "message",
+   "date": "2021-06-14T20:02:04",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "application/pdf",
+   "text": ""
+  },
+  {
+   "id": 506,
+   "type": "message",
+   "date": "2021-06-14T20:02:27",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Envío logo en buena definción para que lo apliquen en portada"
+  },
+  {
+   "id": 507,
+   "type": "message",
+   "date": "2021-06-14T20:02:32",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "image/jpeg",
+   "width": 2240,
+   "height": 2240,
+   "text": ""
+  },
+  {
+   "id": 508,
+   "type": "message",
+   "date": "2021-06-14T20:04:07",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "text": "Genial, profe! Al video lo subimos en la cátedra tambien?"
+  },
+  {
+   "id": 509,
+   "type": "message",
+   "date": "2021-06-14T20:04:52",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Se ha consensuado que todos los ensayos deben tener tres grandes títulos indicativos  INTRODUCCIÓN  / DESARROLLO / CONCLUSION"
+  },
+  {
+   "id": 510,
+   "type": "message",
+   "date": "2021-06-14T20:05:11",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "👍🏻👍🏻"
+  },
+  {
+   "id": 511,
+   "type": "message",
+   "date": "2021-06-14T20:05:30",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Además de REFERENCIAS BIBLIOGRÁFICAS  y BIBLIOGRAFIA"
+  },
+  {
+   "id": 512,
+   "type": "message",
+   "date": "2021-06-14T20:06:40",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Sí pero para el video recuwerden es solo el link YOUTUBE . Uds en vuestra cuenta de alumno UM tienen la posibilidad de crear alli vuestro video"
+  },
+  {
+   "id": 513,
+   "type": "message",
+   "date": "2021-06-14T20:07:36",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Todo se subirá a la Cátedra y SOLO el ensayo a la CARPETA DRIVE DE LOS EXPERTOS."
+  },
+  {
+   "id": 514,
+   "type": "message",
+   "date": "2021-06-14T20:07:48",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "PERO AUN NIO SUBAN NADA POR FAVOR."
+  },
+  {
+   "id": 515,
+   "type": "message",
+   "date": "2021-06-14T20:09:39",
+   "from": "Nicolas Contreras",
+   "from_id": "user1351462231",
+   "text": "Profe buenas noches, va a contestar consultas?"
+  },
+  {
+   "id": 516,
+   "type": "message",
+   "date": "2021-06-14T20:33:05",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Estoy leyendo."
+  },
+  {
+   "id": 517,
+   "type": "message",
+   "date": "2021-06-14T20:33:27",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "reply_to_message_id": 515,
+   "text": "Cual es tu duda? Vamos por privado por favor."
+  },
+  {
+   "id": 518,
+   "type": "message",
+   "date": "2021-06-14T21:48:43",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "profe en la portada, en que parte estaria en el logo? me cuesta ubicarme como seria su formato"
+  },
+  {
+   "id": 519,
+   "type": "message",
+   "date": "2021-06-14T22:05:29",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+   "text": ""
+  },
+  {
+   "id": 520,
+   "type": "message",
+   "date": "2021-06-14T22:05:35",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Pablo me permito citarte para un ejemplo de portada"
+  },
+  {
+   "id": 521,
+   "type": "message",
+   "date": "2021-06-14T22:05:53",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "sisi no hay problema profe"
+  },
+  {
+   "id": 522,
+   "type": "message",
+   "date": "2021-06-14T22:06:23",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "perfecto profe, muchisimas gracias!"
+  },
+  {
+   "id": 523,
+   "type": "message",
+   "date": "2021-06-14T22:06:33",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Es solo ejemplo"
+  },
+  {
+   "id": 524,
+   "type": "message",
+   "date": "2021-06-14T22:07:18",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Guarden esa disposición y cambien sus datos ( TITULO DEL ENSAYO / APELLIDO NOMBRE / DNI"
+  },
+  {
+   "id": 525,
+   "type": "message",
+   "date": "2021-06-14T22:07:29",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "sisi"
+  },
+  {
+   "id": 526,
+   "type": "message",
+   "date": "2021-06-14T22:07:36",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Nol olviden paginar por favor pero esos son detalles finalesn"
+  },
+  {
+   "id": 527,
+   "type": "message",
+   "date": "2021-06-14T22:08:42",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "profe, una consulta"
+  },
+  {
+   "id": 528,
+   "type": "message",
+   "date": "2021-06-14T22:08:51",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "en el titulo no tendria que ir la fecha"
+  },
+  {
+   "id": 529,
+   "type": "message",
+   "date": "2021-06-14T22:09:01",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "por ejemplo (2018-2021)"
+  },
+  {
+   "id": 530,
+   "type": "message",
+   "date": "2021-06-14T22:09:14",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "?"
+  },
+  {
+   "id": 531,
+   "type": "message",
+   "date": "2021-06-14T22:09:49",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "cada uno coloca el título que decida !!! fue solo ejemplo dije"
+  },
+  {
+   "id": 532,
+   "type": "message",
+   "date": "2021-06-14T22:11:48",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 126,
+   "height": 65,
+   "text": ""
+  },
+  {
+   "id": 533,
+   "type": "message",
+   "date": "2021-06-14T22:11:51",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "POR FAVOR !!! Justifiquen el texto :"
+  },
+  {
+   "id": 534,
+   "type": "message",
+   "date": "2021-06-15T10:13:05",
+   "from": "Johnatan",
+   "from_id": "user890143523",
+   "reply_to_message_id": 505,
+   "text": "Profe alguna recomendación para un subtítulo??"
+  },
+  {
+   "id": 535,
+   "type": "message",
+   "date": "2021-06-15T11:38:39",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "reply_to_message_id": 534,
+   "text": "Jonathan no he leído casi nada de tu ENSAYO después del meet de domingo... no me has compartido ...el doc...cuidado porfi. Vamos por privado."
+  },
+  {
+   "id": 536,
+   "type": "message",
+   "date": "2021-06-15T13:20:55",
+   "from": "Ramiro",
+   "from_id": "user978056130",
+   "text": "Profe antes de que borre parte de mi ensayo. El espacio de 1,15 se refiere a interlineado o espacio en saltos de carro?"
+  },
+  {
+   "id": 537,
+   "type": "message",
+   "date": "2021-06-15T14:12:36",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Interlineado"
+  },
+  {
+   "id": 538,
+   "type": "message",
+   "date": "2021-06-16T09:13:37",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1080,
+   "height": 1080,
+   "text": "Foto de Maria Marta"
+  },
+  {
+   "id": 539,
+   "type": "message",
+   "date": "2021-06-16T09:14:24",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "A nuestros futuros Ingenieros que honrarán con su excelencia esta profesión!"
+  },
+  {
+   "id": 540,
+   "type": "message",
+   "date": "2021-06-16T09:26:49",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buen día! Hoy miércoles es para mi una jornada particularmente cargada. Lo lamento, estuve leyendo a algunos a las 5 de la mañana, pero obligaciones agrndadas hoy me abstraen de toda posibilidad."
+  },
+  {
+   "id": 541,
+   "type": "message",
+   "date": "2021-06-16T09:27:34",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "POR FAVOR !! Aún no cuelguen nada. Mañana por la mañana y viernes terminamos todo."
+  },
+  {
+   "id": 542,
+   "type": "message",
+   "date": "2021-06-16T09:28:17",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Les ruego continuar cada uno allí donde este. Si tienen dudas las dejan en comentario.mañana y pasado las resolvemos"
+  },
+  {
+   "id": 543,
+   "type": "message",
+   "date": "2021-06-16T09:28:36",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Verifiquen cómo están citando.... por favor!!!"
+  },
+  {
+   "id": 544,
+   "type": "message",
+   "date": "2021-06-16T09:28:46",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Cuiden ortografía 🙏🙏"
+  },
+  {
+   "id": 545,
+   "type": "message",
+   "date": "2021-06-16T09:29:03",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Los leeré a TODOS antes que entreguen!!!"
+  },
+  {
+   "id": 546,
+   "type": "message",
+   "date": "2021-06-16T09:29:43",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Confien en Uds. Y NO LARGUEN LA TOALLA menos HOY en homenaje a vuestro Día!!"
+  },
+  {
+   "id": 547,
+   "type": "message",
+   "date": "2021-06-16T09:30:07",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Cuidense!!! Del frío!!! Fuerza y es el último esfuerzo!!"
+  },
+  {
+   "id": 548,
+   "type": "message",
+   "date": "2021-06-16T13:48:34",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "text": "Perfecto profe, muchas gracias!"
+  },
+  {
+   "id": 549,
+   "type": "message",
+   "date": "2021-06-16T14:10:20",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Buenisimo, gracias profe!"
+  },
+  {
+   "id": 550,
+   "type": "message",
+   "date": "2021-06-17T14:09:15",
+   "from": "Ramiro",
+   "from_id": "user978056130",
+   "text": "Profe consulta sobre el video de máximo 3 min. Tiene q ser sentado o parado? Me tengo q presentar con año de cursado y sede? O el único requisito es la duración máxima?"
+  },
+  {
+   "id": 551,
+   "type": "message",
+   "date": "2021-06-17T14:16:08",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Deben estar lo más presentable posible! Presentarse y presentar vuestro ensayo en forma oral, de manera clara, breve, concisa y coherente. Máximo de tiempo 3 minutos. De ahí en más LIBRES PARA SER LOS MEJORES ORADORES!! Se perdieron la charla de anoche 🙈🙈🙈🙈"
+  },
+  {
+   "id": 552,
+   "type": "message",
+   "date": "2021-06-17T14:16:54",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    "👉 Te invitamos a participar de nuestra próxima conferencia \n\n🗣 *LA ORATORIA. Anímate a marcar la diferencia* 🗣\n\n🗓️ 16 | Junio\n⏲️ 20.00\n\n🙌 AGENDALO !! VA A ESTAR IMPERDIBLE 🙌\n\n📋 Inscribite acá: ",
+    {
+     "type": "link",
+     "text": "https://bit.ly/3ws79wC"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 553,
+   "type": "message",
+   "date": "2021-06-17T14:52:46",
+   "from": "Nicolas Contreras",
+   "from_id": "user1351462231",
+   "text": "Cuando subimos el ensayo? O mañana va a revisar?"
+  },
+  {
+   "id": 554,
+   "type": "message",
+   "date": "2021-06-17T14:59:30",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Mañana les indico todo"
+  },
+  {
+   "id": 555,
+   "type": "message",
+   "date": "2021-06-18T08:08:56",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buen dia EQUIPO, estoy leyendo trabajos desde las 5am Necesito cerrar con Uds. un par de detalles en un meet pero ... por favor les ruego que sea a las 10:00 en vez de las 9:00 asi sigo leyendo. Me faltan muchos !!! pero tranquilos los leeré a todos !!! Sólo les ruego que me den tiempo para ir haciéndolo."
+  },
+  {
+   "id": 556,
+   "type": "message",
+   "date": "2021-06-18T08:09:12",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "El link para las 10:00 es ID de la reunión\n",
+    {
+     "type": "link",
+     "text": "meet.google.com/pwq-oznm-rbo"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 557,
+   "type": "message",
+   "date": "2021-06-18T08:10:07",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Genial profe, no hay drama"
+  },
+  {
+   "id": 558,
+   "type": "message",
+   "date": "2021-06-18T08:10:14",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Quienes vayan recibiendo DEVOLUCION  vayan avanzando en función de lo observado. Avancen también con lo del video. Anoche ya he recibido dos excelentes propuestas."
+  },
+  {
+   "id": 559,
+   "type": "message",
+   "date": "2021-06-18T08:10:39",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Sigo aqui corrigiendo. Es el ultimo esfuerzo !!!"
+  },
+  {
+   "id": 560,
+   "type": "message",
+   "date": "2021-06-18T08:10:58",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "y NOS INCLUYE A todos: tanto a Uds como a mi."
+  },
+  {
+   "id": 561,
+   "type": "message",
+   "date": "2021-06-18T20:12:57",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "EQUIPO TIF , disculpen que los moleste pero acabamos de tener la reunion de PROFESORES TIF y todos los profesores coincidimos en que TODOS quieren tambien  VERLOS EN VUESTROS VIDEOS"
+  },
+  {
+   "id": 562,
+   "type": "message",
+   "date": "2021-06-18T20:13:25",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Así que por favor: lean bien esta indicación que sigue"
+  },
+  {
+   "id": 563,
+   "type": "message",
+   "date": "2021-06-18T20:14:02",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "Por favor para la entrega del VIDEO DE PRESENTACIÓN: \n1° Nombre del video: APELLIDO NOMBRE del estudiante – TIF 1 – 2021 \n2° FORMATO DEL VIDEO: MP4 \n3° COLGAR EL VIDEO  PARA LOS TUTORES EN EL SIGUIENTE LINK: \n",
+    {
+     "type": "link",
+     "text": "https://drive.google.com/drive/folders/1Uz-EQRlDQ3rFQy6FcQ9KcIM2qoWWUmWX?usp=sharing"
+    },
+    "\nAl ingresar aquí deben dejarlo en la CARPETA que se llama VIDEOS"
+   ]
+  },
+  {
+   "id": 564,
+   "type": "message",
+   "date": "2021-06-18T20:14:41",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Disculpen pero prefieren que sea directamente en mp4"
+  },
+  {
+   "id": 565,
+   "type": "message",
+   "date": "2021-06-18T20:15:00",
+   "from": "Lautaro G",
+   "from_id": "user858971037",
+   "text": "El ensayo donde tenemos que subirlo profe?"
+  },
+  {
+   "id": 566,
+   "type": "message",
+   "date": "2021-06-18T20:15:02",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "¿Está claro por favor el tema video ?"
+  },
+  {
+   "id": 567,
+   "type": "message",
+   "date": "2021-06-18T20:15:18",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "vayamos por orden tema video está claro?"
+  },
+  {
+   "id": 568,
+   "type": "message",
+   "date": "2021-06-18T20:15:23",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "reply_to_message_id": 566,
+   "text": "Cuál es el horario limite? Para subirlo"
+  },
+  {
+   "id": 569,
+   "type": "message",
+   "date": "2021-06-18T20:15:27",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Si profe"
+  },
+  {
+   "id": 570,
+   "type": "message",
+   "date": "2021-06-18T20:15:34",
+   "from": "seba F",
+   "from_id": "user1005951679",
+   "text": "Si profe! Quedo claro el tema video"
+  },
+  {
+   "id": 571,
+   "type": "message",
+   "date": "2021-06-18T20:15:53",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Entonces no es necesario subirlo a Youtube"
+  },
+  {
+   "id": 572,
+   "type": "message",
+   "date": "2021-06-18T20:16:26",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Para el video tienen hasta mañana sábad,o 18, a las 00:00"
+  },
+  {
+   "id": 573,
+   "type": "message",
+   "date": "2021-06-18T20:17:02",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "No es necesario pues prefieren directamente poder atesorarlo en la nube en mp4"
+  },
+  {
+   "id": 574,
+   "type": "message",
+   "date": "2021-06-18T20:17:12",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "text": "Excelente, muchas gracias"
+  },
+  {
+   "id": 575,
+   "type": "message",
+   "date": "2021-06-18T20:17:23",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Tema ENSAYO"
+  },
+  {
+   "id": 576,
+   "type": "message",
+   "date": "2021-06-18T20:18:52",
+   "from": "Santiago Martinez",
+   "from_id": "user807010702",
+   "text": "Perdon María Marta, estoy probando subir el video a la carpeta y todavía no han otorgado los permisos para subirlos"
+  },
+  {
+   "id": 577,
+   "type": "message",
+   "date": "2021-06-18T20:20:48",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "DOBLE PRESENTACIÓN: EN CÁTEDRA VIRTUAL Y CADA ESTUDIANTE LO SUBIRÁ LUEGO DEL OK DEL PROFESOR A CARGO ( EN ESTE CASO MMAG )"
+  },
+  {
+   "id": 578,
+   "type": "message",
+   "date": "2021-06-18T20:21:57",
+   "from": "Santiago Riera",
+   "from_id": "user805229404",
+   "reply_to_message_id": 567,
+   "text": "Quedo claro profe"
+  },
+  {
+   "id": 579,
+   "type": "message",
+   "date": "2021-06-18T20:26:35",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Santiago puedes fijarte ahora por favor"
+  },
+  {
+   "id": 580,
+   "type": "message",
+   "date": "2021-06-18T20:26:54",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Diego Navarro acaba de verificar"
+  },
+  {
+   "id": 581,
+   "type": "message",
+   "date": "2021-06-18T20:27:15",
+   "from": "seba F",
+   "from_id": "user1005951679",
+   "text": "Ahora si profe"
+  },
+  {
+   "id": 582,
+   "type": "message",
+   "date": "2021-06-18T20:27:18",
+   "from": "seba F",
+   "from_id": "user1005951679",
+   "text": "Hay permisos"
+  },
+  {
+   "id": 583,
+   "type": "message",
+   "date": "2021-06-18T20:30:14",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "PERFECTO, ahora pasemos al tema ENSAYO"
+  },
+  {
+   "id": 584,
+   "type": "message",
+   "date": "2021-06-18T20:34:47",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "Por favor para la entrega del ENSAYO TIF 1 : \n1° Nombre  del documento: APELLIDO NOMBRE del estudiante – TEMÁTICA – TIF 1 – 2021 \n2° FORMATO : PDF y WORD \n3°  ENVIAR EL ENSAYO A MI CORREO : ",
+    {
+     "type": "email",
+     "text": "maria.arrieta@um.edu.ar"
+    },
+    " \n4° PLAZO FINAL : sábado 18/6/21 a las 00:00"
+   ]
+  },
+  {
+   "id": 585,
+   "type": "message",
+   "date": "2021-06-18T20:36:22",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "EL ENSAYO DEBERÁ TAMBIEN SER SUBIDO A LA CÁTEDRA VIRTUAL DESDE mañana 18/6/21 desde las 10:00 hasta las 00:00 en FORMATO PDF"
+  },
+  {
+   "id": 586,
+   "type": "message",
+   "date": "2021-06-18T20:36:34",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Queda claro por favor?"
+  },
+  {
+   "id": 587,
+   "type": "message",
+   "date": "2021-06-18T20:36:41",
+   "from": "Santiago Riera",
+   "from_id": "user805229404",
+   "text": "Quedo todo claro profe"
+  },
+  {
+   "id": 588,
+   "type": "message",
+   "date": "2021-06-18T20:36:42",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": "Yes"
+  },
+  {
+   "id": 589,
+   "type": "message",
+   "date": "2021-06-18T20:36:49",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Tenemos prórroga de 24 horas"
+  },
+  {
+   "id": 590,
+   "type": "message",
+   "date": "2021-06-18T20:36:56",
+   "from": "Lautaro G",
+   "from_id": "user858971037",
+   "text": "Si profe muchas gracias"
+  },
+  {
+   "id": 591,
+   "type": "message",
+   "date": "2021-06-18T20:36:56",
+   "from": "Santiago Martinez",
+   "from_id": "user807010702",
+   "text": "Clarísimo profe"
+  },
+  {
+   "id": 592,
+   "type": "message",
+   "date": "2021-06-18T20:36:59",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Fine !!"
+  },
+  {
+   "id": 593,
+   "type": "message",
+   "date": "2021-06-18T20:37:03",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "Gracias profe"
+  },
+  {
+   "id": 594,
+   "type": "message",
+   "date": "2021-06-18T20:37:15",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Quedo claro profe"
+  },
+  {
+   "id": 595,
+   "type": "message",
+   "date": "2021-06-18T20:37:29",
+   "from": "Facu Luna",
+   "from_id": "user672006577",
+   "text": "Buenísimo, profe! Quedo clarísimo!"
+  },
+  {
+   "id": 596,
+   "type": "message",
+   "date": "2021-06-18T20:37:42",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Sigo conectada no deseo molestarlos mas.... PERO se dan cuenta que desde mañana a las 00:00 ya tendrán TERMINADO Y CASI APROBADO EL TIF 1 ??????"
+  },
+  {
+   "id": 597,
+   "type": "message",
+   "date": "2021-06-18T20:37:59",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "profe, cuando pueda, me podria pasar con respecto a las tablas?"
+  },
+  {
+   "id": 598,
+   "type": "message",
+   "date": "2021-06-18T20:38:04",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "que me habias dicho"
+  },
+  {
+   "id": 599,
+   "type": "message",
+   "date": "2021-06-18T20:38:14",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "y PODRÁN FESTEJAR ESA ALEGRIA CON VUESTRA FAMILA ???!!!!!😁🏆🏆🏆🏆🏆🏆"
+  },
+  {
+   "id": 600,
+   "type": "message",
+   "date": "2021-06-18T20:38:35",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Si Pablo no me he olvidado"
+  },
+  {
+   "id": 601,
+   "type": "message",
+   "date": "2021-06-18T20:38:49",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "sigo firme detras de la pantalla"
+  },
+  {
+   "id": 602,
+   "type": "message",
+   "date": "2021-06-18T20:38:52",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "text": "Perdón profe, sería sábado 19/06"
+  },
+  {
+   "id": 603,
+   "type": "message",
+   "date": "2021-06-18T20:39:03",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "text": "No?"
+  },
+  {
+   "id": 604,
+   "type": "message",
+   "date": "2021-06-18T20:39:06",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "ouiiii pardon !!!"
+  },
+  {
+   "id": 605,
+   "type": "message",
+   "date": "2021-06-18T20:39:14",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "SABADO 19"
+  },
+  {
+   "id": 606,
+   "type": "message",
+   "date": "2021-06-18T20:39:34",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "text": "Ahh me asusté jajajaja pensé que cerraba esta noche 😂"
+  },
+  {
+   "id": 607,
+   "type": "message",
+   "date": "2021-06-18T20:39:42",
+   "from": "Nicolas Contreras",
+   "from_id": "user1351462231",
+   "text": "Para el video alguna indicación particular? Más allá del formato y como subirlo"
+  },
+  {
+   "id": 608,
+   "type": "message",
+   "date": "2021-06-18T20:40:02",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "NO COMO SÉ QUE ESTA NOCHE NO DORMIRÉ.... le puse fecha de hoy ... es mañana 19"
+  },
+  {
+   "id": 609,
+   "type": "message",
+   "date": "2021-06-18T20:40:35",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Video siii MAXIMO INDECLINABLE Y NO NEGOCIABLE : 3 MINUTOS"
+  },
+  {
+   "id": 610,
+   "type": "message",
+   "date": "2021-06-18T20:40:57",
+   "from": "Nicolas Contreras",
+   "from_id": "user1351462231",
+   "text": "Y mínimo? Jaja"
+  },
+  {
+   "id": 611,
+   "type": "message",
+   "date": "2021-06-18T20:41:04",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "CLARIDAD y CONCISION deben presentarse y presentar vuestro ensayo"
+  },
+  {
+   "id": 612,
+   "type": "message",
+   "date": "2021-06-18T20:41:05",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": "De un minuto"
+  },
+  {
+   "id": 613,
+   "type": "message",
+   "date": "2021-06-18T20:41:12",
+   "from": "Nicolás Olivares",
+   "from_id": "user774340913",
+   "text": "1 minuto"
+  },
+  {
+   "id": 614,
+   "type": "message",
+   "date": "2021-06-18T20:41:15",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Gracias Julian"
+  },
+  {
+   "id": 615,
+   "type": "message",
+   "date": "2021-06-18T20:41:16",
+   "from": "Nicolás Olivares",
+   "from_id": "user774340913",
+   "text": "Mínimo"
+  },
+  {
+   "id": 616,
+   "type": "message",
+   "date": "2021-06-18T20:41:18",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": "No menos de uno no más de tres"
+  },
+  {
+   "id": 617,
+   "type": "message",
+   "date": "2021-06-18T20:41:25",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "exacto minimo 1 minuto"
+  },
+  {
+   "id": 618,
+   "type": "message",
+   "date": "2021-06-18T20:41:33",
+   "from": "Santiago Martinez",
+   "from_id": "user807010702",
+   "text": "Ahí le envié el documento en los dos formatos profe."
+  },
+  {
+   "id": 619,
+   "type": "message",
+   "date": "2021-06-18T20:41:40",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "text": "Perfecto, todo más que claro! Muchas gracias"
+  },
+  {
+   "id": 620,
+   "type": "message",
+   "date": "2021-06-18T20:42:11",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Algo mas?"
+  },
+  {
+   "id": 621,
+   "type": "message",
+   "date": "2021-06-18T20:42:37",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "siiii un favor les pido ... puedo ???"
+  },
+  {
+   "id": 622,
+   "type": "message",
+   "date": "2021-06-18T20:43:03",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "reply_to_message_id": 621,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👍",
+   "width": 512,
+   "height": 512,
+   "text": ""
+  },
+  {
+   "id": 623,
+   "type": "message",
+   "date": "2021-06-18T20:43:10",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": "Diga"
+  },
+  {
+   "id": 624,
+   "type": "message",
+   "date": "2021-06-18T20:43:21",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "jajajaaj"
+  },
+  {
+   "id": 625,
+   "type": "message",
+   "date": "2021-06-18T20:43:38",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Avisenme cuando suban los videos asi tengo el placer de verlos !!!"
+  },
+  {
+   "id": 626,
+   "type": "message",
+   "date": "2021-06-18T20:44:22",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "porfi PONGAN BIEN LOS NOMBRES EN LOS DOCUMENTOS ÑY VIDEOS PORFI !!!"
+  },
+  {
+   "id": 627,
+   "type": "message",
+   "date": "2021-06-18T20:44:27",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "chaito"
+  },
+  {
+   "id": 628,
+   "type": "message",
+   "date": "2021-06-19T08:11:50",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 720,
+   "text": ""
+  },
+  {
+   "id": 629,
+   "type": "message",
+   "date": "2021-06-19T08:12:28",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buen día, habilitada la entrega en la Catedra. Gracias."
+  },
+  {
+   "id": 630,
+   "type": "message",
+   "date": "2021-06-19T10:12:59",
+   "from": "Lautaro G",
+   "from_id": "user858971037",
+   "text": "Genial profe"
+  },
+  {
+   "id": 631,
+   "type": "message",
+   "date": "2021-06-19T10:13:02",
+   "from": "Lautaro G",
+   "from_id": "user858971037",
+   "text": "Gracias"
+  },
+  {
+   "id": 632,
+   "type": "message",
+   "date": "2021-06-19T10:29:30",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Por favor les ruego, cargar y enviar LAS ULTIMAS VERSIONES por mi corregidas. Estoy constatando que algunos estudiantes me envían a mi correo versiones CON ERRORES aún; errores que yo ya he corregido. POR FAVOR: ordénense y verifiquen bien antes de entregar. 🙏🙏🙏🙏🙏🙏🙏"
+  },
+  {
+   "id": 633,
+   "type": "message",
+   "date": "2021-06-29T18:49:54",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Hola Gente Linda!!!! Solo para desearles el mejor de los éxitos en vuestros exámenes!!! Sé que están dando lo mejor de si👍👍👍👍. Al igual que los tutores que de a poco van evaluando vuestros ensayos. En principio las notas estarían antes del receso invernal.  Los tengo al tanto. No los distraigo más 🙏 Cuidense y adelante. Se los extraña ."
+  },
+  {
+   "id": 634,
+   "type": "message",
+   "date": "2021-06-29T18:50:37",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Muchas gracias profe!"
+  },
+  {
+   "id": 635,
+   "type": "message",
+   "date": "2021-06-29T18:50:52",
+   "from": "Matias Ruiz",
+   "from_id": "user857392417",
+   "text": "gracias profe, igualmente!"
+  },
+  {
+   "id": 636,
+   "type": "message",
+   "date": "2021-06-29T18:51:06",
+   "from": "Santiago Martinez",
+   "from_id": "user807010702",
+   "text": "Muchas gracias profe!"
+  },
+  {
+   "id": 637,
+   "type": "message",
+   "date": "2021-06-29T18:54:47",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": "Gracias profe!"
+  },
+  {
+   "id": 638,
+   "type": "message",
+   "date": "2021-06-29T18:58:29",
+   "from": "Facu Luna",
+   "from_id": "user672006577",
+   "text": "Gracias profe"
+  },
+  {
+   "id": 639,
+   "type": "message",
+   "date": "2021-06-29T18:59:27",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Muchas gracias profe"
+  },
+  {
+   "id": 640,
+   "type": "message",
+   "date": "2021-06-29T19:03:45",
+   "from": "Nicolás Olivares",
+   "from_id": "user774340913",
+   "text": "Gracias profe!"
+  },
+  {
+   "id": 641,
+   "type": "message",
+   "date": "2021-06-29T19:38:19",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Gracias profe!!!"
+  },
+  {
+   "id": 642,
+   "type": "message",
+   "date": "2021-06-29T19:44:06",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Qué lindoooo leerlos😍😍😍"
+  },
+  {
+   "id": 643,
+   "type": "message",
+   "date": "2021-06-29T19:44:24",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Gracias a Uds🙏"
+  },
+  {
+   "id": 644,
+   "type": "message",
+   "date": "2021-06-29T20:04:07",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "text": "Muchas gracias profee!!"
+  },
+  {
+   "id": 645,
+   "type": "message",
+   "date": "2021-06-29T20:41:01",
+   "from": "Ramiro",
+   "from_id": "user978056130",
+   "text": "Muchas gracias profe"
+  },
+  {
+   "id": 646,
+   "type": "message",
+   "date": "2021-08-12T10:49:52",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Hola Equipo TIF!!! Silencio no es olvido ni negligencia. Anoche se cerraron las  notas y por ende, estado de regularidad de los estudiantes del TIF 1 ,   luego de reunión con los expertos anoche hasta las 21. Las notas serán publicadas hoy a partir de las 18. El TIF 2 dará inicio el viernes 20 de agosto, en horario de mañana. Seguramente desde COORDINACION de la FI - UM SR  , Mariela los estará contactando. Se vienen grandes y muy bellos desafíos!!! Como siempre les digo: ¡Adelante!"
+  },
+  {
+   "id": 647,
+   "type": "message",
+   "date": "2021-08-12T10:50:28",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Las notas las subiré a la Catedra"
+  },
+  {
+   "id": 648,
+   "type": "message",
+   "date": "2021-08-12T10:50:48",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Nos vemos el próximo viernes 20"
+  },
+  {
+   "id": 649,
+   "type": "message",
+   "date": "2021-08-12T10:53:19",
+   "from": "seba F",
+   "from_id": "user1005951679",
+   "text": "hola profe, gracias por avisar!"
+  },
+  {
+   "id": 650,
+   "type": "message",
+   "date": "2021-08-12T10:55:16",
+   "from": "Matias Navarro",
+   "from_id": "user846689643",
+   "text": "Profe muchas gracias por el aviso!"
+  },
+  {
+   "id": 651,
+   "type": "message",
+   "date": "2021-08-12T10:55:44",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "gracias por avisar profe!"
+  },
+  {
+   "id": 652,
+   "type": "message",
+   "date": "2021-08-12T10:55:52",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Profe gracias por el aviso!"
+  },
+  {
+   "id": 653,
+   "type": "message",
+   "date": "2021-08-12T10:56:18",
+   "from": "Facu Luna",
+   "from_id": "user672006577",
+   "text": "Buenísimo profe, gracias por el aviso!"
+  },
+  {
+   "id": 654,
+   "type": "message",
+   "date": "2021-08-12T11:06:28",
+   "from": "Santiago Riera",
+   "from_id": "user805229404",
+   "text": "Gracias por el aviso profe!"
+  },
+  {
+   "id": 655,
+   "type": "message",
+   "date": "2021-08-12T11:06:47",
+   "from": "Matías Romani",
+   "from_id": "user652756401",
+   "text": "Gracias profe"
+  },
+  {
+   "id": 656,
+   "type": "message",
+   "date": "2021-08-12T11:32:01",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "text": "Perfecto profe, gracias!"
+  },
+  {
+   "id": 657,
+   "type": "message",
+   "date": "2021-08-19T17:11:20",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Hola Equipo TIF 2👍👍👍👍👍"
+  },
+  {
+   "id": 658,
+   "type": "message",
+   "date": "2021-08-19T17:11:45",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Mañana a las 9, nos vemos."
+  },
+  {
+   "id": 659,
+   "type": "message",
+   "date": "2021-08-19T17:12:19",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "En vuestro correo UM , está todo indicado."
+  },
+  {
+   "id": 660,
+   "type": "message",
+   "date": "2021-08-19T17:12:45",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Hola profe! Genial gracias! Nos vemos mañana!"
+  },
+  {
+   "id": 661,
+   "type": "message",
+   "date": "2021-08-19T17:13:25",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Hola profe, buenisimo!"
+  },
+  {
+   "id": 662,
+   "type": "message",
+   "date": "2021-08-19T17:13:30",
+   "from": "Julian Campana",
+   "from_id": "user925454557",
+   "text": "Perfecto! Nos vemos mañana 😁"
+  },
+  {
+   "id": 663,
+   "type": "message",
+   "date": "2021-08-23T10:49:08",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Hola Equipo TIF 2 !!! Espero hayan tenido un reparador finde. Quizá tengamos que cambiar el nombre de nuestro grupo y llamarlo TIF 2 !!!!  Disculpen que los distraiga es por dos temitas: 1. Ya está la cátedra habilitada y en ella encontrarán todo: ROAD MAP + TEMPLATE PITCH DECH + CRONOGRAMA + ( en la pestaña que se llama CLASES ) el enlace a la grabacion de la clase. Lo único -disculpas - pero aún no cambian el nombre de la cátedra para llamarse TIF 2 ( ahora deben ingresar a TRABAJO FINAL SAN RAFAEL, enel trasncurso de la jornada lo cambiarán) Este finde he estado procesando los resultados del Cuetsionario sobre PENDSAMIENTO CRÍTICO y aún me faltan alumnos que lo completen. Lo he vuelto a abrir hasta esta noche a las  23:59. Por favor quienes aun no lo hayan hecho, les reugo lo completen. Aqui les dejo el link. Gracias y seguimos en contacto. Muy buena semana"
+  },
+  {
+   "id": 664,
+   "type": "message",
+   "date": "2021-08-23T10:50:06",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://forms.gle/twJ22LY96XgZmuVu5"
+    }
+   ]
+  },
+  {
+   "id": 665,
+   "type": "service",
+   "date": "2021-08-23T12:23:50",
+   "actor": "Esteban",
+   "actor_id": "user859940597",
+   "action": "edit_group_title",
+   "title": "Trabajo Integrador Final II",
+   "text": ""
+  },
+  {
+   "id": 666,
+   "type": "message",
+   "date": "2021-08-24T08:15:00",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://m.facebook.com/story.php?story_fbid=10222968816381277&id=1004907453&post_id=1004907453_10222968816381277&notif_id=1629802132718237&notif_t=nf_share_story&ref=notif&sfnsn=scwspmo"
+    }
+   ]
+  },
+  {
+   "id": 667,
+   "type": "message",
+   "date": "2021-08-24T08:15:50",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buen día! Posteado por el ING. Diego Córdoba. Sigamos sumando. Que tengan excelente jornada."
+  },
+  {
+   "id": 668,
+   "type": "message",
+   "date": "2021-08-27T08:49:47",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buen día! Espero estén muy bien. Aunque convaleciente ( hice una reacción vaccinal que unida a mi alergia, se me ha complicado) . Les ruego por favor leer atentamente el mail y el TP. NOS VEMOS A LAS 11:30. Mil disculpas. Estoy con parte médico pero es menester vernos para preparar encuentro del 4 con especialistas. Vamos!!! Energía 👍👍👍👍"
+  },
+  {
+   "id": 669,
+   "type": "message",
+   "date": "2021-08-27T08:53:29",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "text": "Perfecto. Gracias"
+  },
+  {
+   "id": 670,
+   "type": "message",
+   "date": "2021-08-27T11:20:24",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "En 10 minutos nos vemos."
+  },
+  {
+   "id": 671,
+   "type": "message",
+   "date": "2021-08-27T11:26:25",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "reply_to_message_id": 670,
+   "text": "👍🏼"
+  },
+  {
+   "id": 672,
+   "type": "message",
+   "date": "2021-08-27T11:26:42",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "text": "Perfecto profe!"
+  },
+  {
+   "id": 673,
+   "type": "message",
+   "date": "2021-08-27T11:31:49",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "cual es el link del meet?"
+  },
+  {
+   "id": 674,
+   "type": "message",
+   "date": "2021-08-27T11:32:06",
+   "from": "Matías Romani",
+   "from_id": "user652756401",
+   "text": "Esta en el mail"
+  },
+  {
+   "id": 675,
+   "type": "message",
+   "date": "2021-08-27T11:32:07",
+   "from": "Giancarlo Galvarini",
+   "from_id": "user1009916191",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 505,
+   "height": 256,
+   "text": ""
+  },
+  {
+   "id": 676,
+   "type": "message",
+   "date": "2021-08-27T11:32:11",
+   "from": "Ramiro",
+   "from_id": "user978056130",
+   "text": "Está en el email en el q pasó las consignas"
+  },
+  {
+   "id": 677,
+   "type": "message",
+   "date": "2021-08-27T11:32:18",
+   "from": "Nicolas Contreras",
+   "from_id": "user1351462231",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://meet.google.com/bxs-cxxz-tjo?hs=122&authuser=0"
+    }
+   ]
+  },
+  {
+   "id": 678,
+   "type": "message",
+   "date": "2021-08-27T11:32:29",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "muchas gracias+"
+  },
+  {
+   "id": 679,
+   "type": "message",
+   "date": "2021-08-30T15:30:49",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buen día queridos Estudiantes, \nDeseo que se encuentren muy bien. Y listos para atacar esta nueva semana. Les comento dos cosas:"
+  },
+  {
+   "id": 680,
+   "type": "message",
+   "date": "2021-08-30T15:31:08",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "1°- En vez de subir a la cátedra virtual, el PTT del viernes pasado, les ruego por favor subirlo a esta CARPETA DRIVE que se llama: “TIF 2 – ESTUDIANTES 2021”  ¡PERO CUIDADO!!!! Antes de cargar el PTT, LES RUEGO dentro de esta carpeta general, GENERAR CADA UNO su PROPIA CARPETA cuyo nombre será primero APELLIDO – NOMBRE y recién dentro de vuestra propia carpeta, suben el PTT ( título del PTT: TP 1- APELLIDO-NOMBRE- RETOS Y DESAFÍOS DEL INGENIERO )"
+  },
+  {
+   "id": 681,
+   "type": "message",
+   "date": "2021-08-30T15:31:23",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "Link de la carpeta general: TIF 2 – ESTUDIANTES 2021\n",
+    {
+     "type": "link",
+     "text": "https://drive.google.com/drive/folders/11Qd4tixCioRVLBBCtB7Pj0Cza2BpUCxS?usp=sharing"
+    },
+    "\nEl objetivo es que cada uno cuelgue en su propia carpeta los entregables y podré hacer un seguimiento personalizado de vuestro trabajo."
+   ]
+  },
+  {
+   "id": 682,
+   "type": "message",
+   "date": "2021-08-30T15:31:37",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "2° PREPARATIVOS PARA SÁBADO, 4 DE SETIEMBRE:"
+  },
+  {
+   "id": 683,
+   "type": "message",
+   "date": "2021-08-30T15:31:52",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Cada estudiante deberá tener en mente el modelo del PITCH DECK subido a la cátedra virtual ( está justo debajo del calendario) Deben llegar el sábado INDEFECTIBVLEMENTE -como  mínimo- con dos “PROBLEMAS”  ( insisto “problemas” NO SOLO IDEAS ….) y plasmarlo en una presentación aunque sea una o dos slides. (Slide 1: carátula con vuestro APELLIDO / NOMBE – Pertenencia Institucional – LÍNEA DE ORIENTACIÓN DEL PROYECTO DEL TIF 2 ) y en la otra, el PROBLEMA ( aunque sea los primeros lineamientos. Para ello fíjense en la 3° slide del Pitch Deck Celita ). Si pueden avanzar con algo de VALOR pues adelante!!!"
+  },
+  {
+   "id": 684,
+   "type": "message",
+   "date": "2021-08-30T15:32:18",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Resumiendo:  avanzar cada uno a su ritmo es “indispensable”. Sin embargo, recuerden que UN PROBLEMA BIEN PLANTEADO, es un problema con un  60%  solucionado. Es decir, concéntrense en DEFINIR Y DELIMITAR el problema."
+  },
+  {
+   "id": 685,
+   "type": "message",
+   "date": "2021-08-30T15:32:31",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "DE TODAS MANERAS: este viernes tenemos clases normalmente a las 9:00"
+  },
+  {
+   "id": 686,
+   "type": "message",
+   "date": "2021-08-30T15:34:48",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Ok profe 👍🏻"
+  },
+  {
+   "id": 687,
+   "type": "message",
+   "date": "2021-08-30T15:35:42",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Gracias Augusto. Ante cualqueir duda me consultan. Estamos a un telegram de distancia... 😘"
+  },
+  {
+   "id": 688,
+   "type": "message",
+   "date": "2021-08-30T15:35:58",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "text": "Genial, profe"
+  },
+  {
+   "id": 689,
+   "type": "message",
+   "date": "2021-08-30T15:36:16",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "text": "no estoy pudiendo acceder a la carpeta"
+  },
+  {
+   "id": 690,
+   "type": "message",
+   "date": "2021-08-30T15:36:31",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "A VER...."
+  },
+  {
+   "id": 691,
+   "type": "message",
+   "date": "2021-08-30T15:36:43",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "text": "estoy con el mail de la facu"
+  },
+  {
+   "id": 692,
+   "type": "message",
+   "date": "2021-08-30T15:37:24",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "text": "ahi pude 👍🏼"
+  },
+  {
+   "id": 693,
+   "type": "message",
+   "date": "2021-08-30T15:37:27",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "por favor VERIFIQUEN AHORA !"
+  },
+  {
+   "id": 694,
+   "type": "message",
+   "date": "2021-08-30T15:37:42",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "text": "gracias!"
+  },
+  {
+   "id": 695,
+   "type": "message",
+   "date": "2021-08-30T15:37:48",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Claro es con mail de la UM"
+  },
+  {
+   "id": 696,
+   "type": "message",
+   "date": "2021-08-30T15:40:09",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": "Aqui les adjunto también el logo de la FI !!! asi no colocan cualquiera"
+  },
+  {
+   "id": 697,
+   "type": "message",
+   "date": "2021-08-30T19:34:02",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buenas tardes, les debe haber llegado a vuestro correo UM un formulario llamado EVALUANDO HABILIDADES COMUNICATIVAS AL ORAL. Pues bien es para que realicen 1° ) la EVALUACIÓN DE SU PROPIO VIDEO ( el video que entregaron en TIF 1 ) eligen pues vuestro nombre y en 2°) eligen el de algún otro compañero y tambien lo evalúan ( es decir harán dos envíos)"
+  },
+  {
+   "id": 698,
+   "type": "message",
+   "date": "2021-08-30T19:34:44",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Por cualquier cosa que no les haya llegado el enlace es"
+  },
+  {
+   "id": 699,
+   "type": "message",
+   "date": "2021-08-30T19:35:26",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    {
+     "type": "link",
+     "text": "https://bit.ly/3yvNuN4"
+    }
+   ]
+  },
+  {
+   "id": 700,
+   "type": "message",
+   "date": "2021-08-30T19:35:58",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Esto es\"autovevaluación y co-evaluación\" ADELANTE !!!!"
+  },
+  {
+   "id": 701,
+   "type": "message",
+   "date": "2021-08-30T19:53:34",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Profe me parece que faltan nombres en el formulario"
+  },
+  {
+   "id": 702,
+   "type": "message",
+   "date": "2021-08-30T19:53:45",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Por ejemplo Santiago Martínez"
+  },
+  {
+   "id": 703,
+   "type": "message",
+   "date": "2021-08-30T19:54:30",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 476,
+   "height": 1280,
+   "text": ""
+  },
+  {
+   "id": 705,
+   "type": "message",
+   "date": "2021-08-30T20:02:17",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "En reunión sorry"
+  },
+  {
+   "id": 706,
+   "type": "message",
+   "date": "2021-08-30T20:03:13",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Los nombres son de los alumnos  que están en la catedra virtual. Los que no se hayan inscripto no.apateceran"
+  },
+  {
+   "id": 707,
+   "type": "message",
+   "date": "2021-08-30T20:04:31",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Apreté cualquier cosa🙈🙈🙈🙈🙈"
+  },
+  {
+   "id": 708,
+   "type": "message",
+   "date": "2021-08-30T20:11:47",
+   "from": "Santiago Martinez",
+   "from_id": "user807010702",
+   "text": "Ahi me anote profe!"
+  },
+  {
+   "id": 709,
+   "type": "message",
+   "date": "2021-09-03T05:33:30",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "Estimados miembros TIF 2 , ESPERANDO SINCERAMENTE SE ENCUENTREN MUY BIEN !!!! les confío el enlace link para la clase de hoy a las 9:00 . Los espero con entusiasmo, tenemos mucho por avanzar. ID de la reunión\n",
+    {
+     "type": "link",
+     "text": "meet.google.com/byn-ihpd-adt"
+    },
+    ""
+   ]
+  },
+  {
+   "id": 711,
+   "type": "message",
+   "date": "2021-09-03T13:36:28",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Todo subido en la pestaña CLASES de la Catedra. Tanto grabación como PTT"
+  },
+  {
+   "id": 712,
+   "type": "message",
+   "date": "2021-09-03T13:36:57",
+   "from": "Facu Luna",
+   "from_id": "user672006577",
+   "text": "Buenísimo profe, muchas gracias!"
+  },
+  {
+   "id": 713,
+   "type": "message",
+   "date": "2021-09-03T13:37:57",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Porfi quienes no asistieron a clases no dejen de verificar lo hecho HOY que es trampolín para mañana"
+  },
+  {
+   "id": 714,
+   "type": "message",
+   "date": "2021-09-03T13:38:10",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Mañana nos reunimos a las 8:30"
+  },
+  {
+   "id": 715,
+   "type": "message",
+   "date": "2021-09-03T13:38:31",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Les mando link mañana y así los despierto 😜😜😜😜"
+  },
+  {
+   "id": 716,
+   "type": "message",
+   "date": "2021-09-03T13:42:00",
+   "from": "Arian M",
+   "from_id": "user597215828",
+   "text": "Genial profe 👍🏻"
+  },
+  {
+   "id": 720,
+   "type": "message",
+   "date": "2021-09-04T07:49:29",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buen dia Equipo. ☕☕☕🥐🥐 Los esperamos -como previsto- a las 8:30 . Aqui dejo link"
+  },
+  {
+   "id": 721,
+   "type": "message",
+   "date": "2021-09-04T07:49:41",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "Unirse con Google Meet\n",
+    {
+     "type": "link",
+     "text": "meet.google.com/yjt-echz-wrg"
+    }
+   ]
+  },
+  {
+   "id": 722,
+   "type": "message",
+   "date": "2021-09-07T10:07:11",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Hola Equipo!!!! Sólo pensé en Uds. ...y les dejo mis mejores deseos para una linda y fructífera jornada 👍👍👍👍👍No cedan!!!! Adelante🙏🙏🙏🙏✍✍✍✍✍✍"
+  },
+  {
+   "id": 723,
+   "type": "message",
+   "date": "2021-09-07T10:56:54",
+   "from": "Esteban",
+   "from_id": "user859940597",
+   "text": "Gracias, profe. Igualmente!"
+  },
+  {
+   "id": 724,
+   "type": "message",
+   "date": "2021-09-07T10:57:22",
+   "from": "Ornella Grasso",
+   "from_id": "user741547599",
+   "text": "Gracias profe! 🤗"
+  },
+  {
+   "id": 725,
+   "type": "message",
+   "date": "2021-09-07T10:59:50",
+   "from": "Pablo Fracaro",
+   "from_id": "user830260616",
+   "text": "Gracias profe! 😁"
+  },
+  {
+   "id": 726,
+   "type": "message",
+   "date": "2021-09-07T11:33:56",
+   "from": "Yago",
+   "from_id": "user810386556",
+   "text": "Hola profe, igualmente!"
+  },
+  {
+   "id": 727,
+   "type": "message",
+   "date": "2021-09-07T11:34:16",
+   "from": "Marcos Adrián Rugoso",
+   "from_id": "user1052727325",
+   "text": "Gracias profe!!"
+  },
+  {
+   "id": 728,
+   "type": "message",
+   "date": "2021-09-10T08:30:05",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": "Buen dia !!!Nos reunimos en 30 minutos !!! 🥐☕🫖"
+  },
+  {
+   "id": 729,
+   "type": "message",
+   "date": "2021-09-10T08:30:11",
+   "from": "María Marta Arrieta",
+   "from_id": "user1691333349",
+   "text": [
+    "ID de la reunión\n",
+    {
+     "type": "link",
+     "text": "meet.google.com/rce-hepu-wmz"
+    },
+    ""
+   ]
+  }
+ ]
+}
