@@ -48,7 +48,7 @@ edited                  object
 			<p class="normal">id</p>
 		</td>
 		<td>
-			<p class="normal">Identificación del Mensaje</p>
+			<p class="normal">Número de identificación del Mensaje</p>
 		</td>
 	</tr>
 	<tr>
@@ -56,7 +56,7 @@ edited                  object
 			<p class="normal">type</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal">Tipo de mensaje. (service | message)</p>
 		</td>
 	</tr>
 	<tr>
@@ -64,7 +64,7 @@ edited                  object
 			<p class="normal">date</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal">Fecha y hora. Formato: (Y-m-dTh-m-s)</p>
 		</td>
 	</tr>
 	<tr>
@@ -72,7 +72,7 @@ edited                  object
 			<p class="normal">actor</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal">Quíen interviene en el mensaje (usuario | telegram)</p>
 		</td>
 	</tr>
 	<tr>
@@ -80,7 +80,7 @@ edited                  object
 			<p class="normal">actor_id</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal">Identificación del <i>actor</i>. (channel | user)</p>
 		</td>
 	</tr>
 	<tr>
@@ -88,7 +88,7 @@ edited                  object
 			<p class="normal">action</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal">Descripción textual de un evento. Ej: <i>migrate_from_group</i>, <i>join_group_by_link</i>, <i>remove_members</i></p>
 		</td>
 	</tr>
 	<tr>
@@ -96,7 +96,7 @@ edited                  object
 			<p class="normal">title</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal">Título del grupo donde se envía el mensaje</p>
 		</td>
 	</tr>
 	<tr>
@@ -104,7 +104,7 @@ edited                  object
 			<p class="normal">text</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal">Cuerpo del mensaje. Nos interesa conocer la cantidad de caracteres.</p>
 		</td>
 	</tr>
 	<tr>
@@ -112,7 +112,7 @@ edited                  object
 			<p class="normal">inviter</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal"><i>--</i></p>
 		</td>
 	</tr>
 	<tr>
@@ -120,7 +120,7 @@ edited                  object
 			<p class="normal">from</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal">Nombre del usuario que envía el mensaje. (Lo define el propio usuario)</p>
 		</td>
 	</tr>
 	<tr>
@@ -128,7 +128,7 @@ edited                  object
 			<p class="normal">from_id</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal">Identificación del usuario que envía el mensaje. <i>from</i></p>
 		</td>
 	</tr>
 	<tr>
@@ -136,7 +136,7 @@ edited                  object
 			<p class="normal">members</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal">Usuarios involucrados en una acción o evento. Ej: Para <i>remove_members</i>, nombre del usuario que fue eliminado.</p>
 		</td>
 	</tr>
 	<tr>
@@ -144,7 +144,7 @@ edited                  object
 			<p class="normal">reply_to_message_id</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal">Si el mensaje enviado es una respuesta a otro mensaje. Hace referencia al identificador del mensaje respondido. </p>
 		</td>
 	</tr>
 	<tr>
@@ -152,7 +152,7 @@ edited                  object
 			<p class="normal">photo</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal"><i>El dataset no incluye archivos</i></p>
 		</td>
 	</tr>
 	<tr>
@@ -160,7 +160,7 @@ edited                  object
 			<p class="normal">width</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal"><i>El dataset no incluye archivos</i></p>
 		</td>
 	</tr>
 	<tr>
@@ -168,7 +168,7 @@ edited                  object
 			<p class="normal">height</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal"><i>El dataset no incluye archivos</i></p>
 		</td>
 	</tr>
 	<tr>
@@ -176,7 +176,7 @@ edited                  object
 			<p class="normal">file</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal"><i>El dataset no incluye archivos</i></p>
 		</td>
 	</tr>
 	<tr>
@@ -184,7 +184,7 @@ edited                  object
 			<p class="normal">thumbnail</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal"><i>El dataset no incluye archivos</i></p>
 		</td>
 	</tr>
 	<tr>
@@ -192,7 +192,7 @@ edited                  object
 			<p class="normal">media_type</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal"><i>El dataset no incluye archivos</i> (sticker | animation | voice_message) </p>
 		</td>
 	</tr>
 	<tr>
@@ -200,7 +200,7 @@ edited                  object
 			<p class="normal">sticker_emoji</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal">Qué emojis incluye el mensaje. (nan | 🚶 | 🕺 | 👍 | 🚪)</p>
 		</td>
 	</tr>
 	<tr>
@@ -208,7 +208,7 @@ edited                  object
 			<p class="normal">mime_type</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal">Formato del archivo enviado.<i>El dataset no incluye archivos</i></p>
 		</td>
 	</tr>
 	<tr>
@@ -216,7 +216,7 @@ edited                  object
 			<p class="normal">duration_seconds</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal">Duración en segundos de las notas de voz. <i>El dataset no incluye notas de voz</i></p>
 		</td>
 	</tr>
 	<tr>
@@ -224,7 +224,7 @@ edited                  object
 			<p class="normal">edited</p>
 		</td>
 		<td>
-			<p class="normal"></p>
+			<p class="normal">Fecha en que fue editado el mensaje.</p>
 		</td>
 	</tr>
 </table>
